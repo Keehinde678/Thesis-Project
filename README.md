@@ -84,24 +84,33 @@ seaborn>=0.12.0
 scipy>=1.10.0
 scikit-learn>=1.2.0
 Reproducing Results
+
 Step 1 — Run LPBA
+
 bashcd lpba
 python lpba_clinicalbert.py
 ClinicalBERT (~440MB) will download automatically on first run. Results are saved to results/. Runtime is approximately 5–15 minutes on CPU.
+
 Step 2 — Run Probing Analysis
+
 bashcd probing
 python probing_analysis.py
+
 Step 3 — Interpreting outputs
+
 Each script saves:
 
 A raw results CSV with one row per observation
+
 A bias metrics CSV with group-level scores and rankings
+
 A statistical tests CSV with significance values
+
 PNG visualisations split by word category (Evaluative Framing / Behavioral Language)
 
 
 **Theoretical Framework**
-This study adopts the representational harm framework (Blodgett et al., 2020; Crawford, 2017) as its primary interpretive lens. Representational harm refers to the ways in which language models encode and reproduce demeaning, reductive, or stereotyped associations about particular social groups — operating not by directly withholding resources but by perpetuating stigmatising associations that shape how groups are perceived and treated.
+This study adopts the representational harm framework (Blodgett et al., 2020; Crawford, 2017) as its primary interpretive lens. Representational harm refers to the ways in which language models encode and reproduce demeaning, reductive, or stereotyped associations about particular social groups, operating not by directly withholding resources but by perpetuating stigmatising associations that shape how groups are perceived and treated.
 Statistical outputs from LPBA and PA are interpreted not as self-contained performance metrics but as evidence of how clinical language encodes and reproduces social hierarchies embedded in the documentation practices of the healthcare system.
 
 Key References
