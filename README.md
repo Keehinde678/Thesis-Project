@@ -107,13 +107,21 @@ Statistical outputs from LPBA and PA are interpreted not as self-contained perfo
 Key References
 
 Alsentzer, E. et al. (2019). Publicly Available Clinical BERT Embeddings.
+
 Blodgett, S. L. et al. (2020). Language (Technology) is Power: A Critical Survey of "Bias" in NLP.
+
 Crawford, K. (2017). The Trouble with Bias. NeurIPS Keynote.
+
 D'Ignazio, C. & Klein, L. F. (2020). Data Feminism. MIT Press.
+
 Johnson, A. E. W. et al. (2016). MIMIC-III, a freely accessible critical care database.
+
 Kurita, K. et al. (2019). Measuring Bias in Contextualized Word Representations.
+
 Mehrabi, N. et al. (2021). A Survey on Bias and Fairness in Machine Learning.
+
 Obermeyer, Z. et al. (2019). Dissecting racial bias in an algorithm used to manage the health of populations.
+
 
 **Citation**
 
