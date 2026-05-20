@@ -65,39 +65,52 @@ This repository does include any MIMIC-III data but does contain no patient info
 
 **Model**
 ClinicalBERT — emilyalsentzer/Bio_ClinicalBERT
-A domain-specific BERT model further pre-trained on MIMIC-III clinical notes by Alsentzer et al. (2019). Available via HuggingFace:
+A domain-specific BERT model further pre-trained on MIMIC-III clinical notes by Alsentzer et al. (2019). Available via 
+
+HuggingFace:
 https://huggingface.co/emilyalsentzer/Bio_ClinicalBERT
+
 Installation
 bash# Clone the repository
 git clone https://github.com/keehinde678/clinicalbert-bias-analysis.git
 cd clinicalbert-bias-analysis
 
 # Install dependencies
+
 pip install -r requirements.txt
+
 requirements.txt
+
 torch>=2.0.0
+
 transformers>=4.30.0
+
 pandas>=1.5.0
+
 numpy>=1.24.0
+
 matplotlib>=3.7.0
+
 seaborn>=0.12.0
+
 scipy>=1.10.0
+
 scikit-learn>=1.2.0
+
 Reproducing Results
 
-Step 1 — Run LPBA
+Step 1: Run LPBA
 
 bashcd lpba
 python lpba_clinicalbert.py
 ClinicalBERT (~440MB) will download automatically on first run. Results are saved to results/. Runtime is approximately 5–15 minutes on CPU.
 
-Step 2 — Run Probing Analysis
+Step 2: Run Probing Analysis
 
 bashcd probing
 python probing_analysis.py
 
-Step 3 — Interpreting outputs
-
+Step 3: Interpreting outputs
 Each script saves:
 
 A raw results CSV with one row per observation
@@ -135,11 +148,17 @@ Obermeyer, Z. et al. (2019). Dissecting racial bias in an algorithm used to mana
 **Citation**
 
 If you use this code in your own research, please cite:
+
 @thesis{Kehinde Soetan2026,
+
   title     = { A Computational Audit of Demographic Association Encoding ClinicalBERT'S Language Prediction},
+
   author    = {Kehinde Soetan},
+ 
   year      = {2026},
+ 
   school    = {The Ohio State University},
+
   type      = {Master's Thesis}
 }
 
