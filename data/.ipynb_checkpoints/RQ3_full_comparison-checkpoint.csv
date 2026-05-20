@@ -1,0 +1,33 @@
+Word,Minority_Group,Model_Difference,Model_Direction,Corpus_Rate_Difference,Corpus_Direction,Alignment,Method,Race
+cooperative,Black,0.0492364168167114,higher,-1.529818496110631,lower,CONTRADICTS corpus,LPBA,Black
+cooperative,Hispanic,-0.0513262748718261,lower,7.893258426966292,higher,CONTRADICTS corpus,LPBA,Hispanic
+cooperative,Asian,0.0474386811256408,higher,0.15516318887105385,higher,REFLECTS corpus,LPBA,Asian
+compliance,Black,-0.4473332650959492,lower,2.5237683664649966,higher,CONTRADICTS corpus,LPBA,Black
+compliance,Hispanic,0.0263632051646709,higher,-1.0018726591760299,lower,CONTRADICTS corpus,LPBA,Hispanic
+compliance,Asian,0.2974901460111141,higher,4.355270197966828,higher,REFLECTS corpus,LPBA,Asian
+refused,Black,-0.1229317802935838,lower,7.631806395851339,higher,CONTRADICTS corpus,LPBA,Black
+refused,Hispanic,-0.1145140463486313,lower,4.747191011235954,higher,CONTRADICTS corpus,LPBA,Hispanic
+refused,Asian,-0.0626528654247522,lower,-7.752808988764046,lower,REFLECTS corpus,LPBA,Asian
+refusing,Black,0.0807786638086494,higher,4.468452895419188,higher,REFLECTS corpus,LPBA,Black
+refusing,Hispanic,-0.0113146630200469,lower,-1.6853932584269662,lower,REFLECTS corpus,LPBA,Hispanic
+refusing,Asian,0.0433667139573534,higher,-1.6853932584269662,lower,CONTRADICTS corpus,LPBA,Asian
+oriented,Black,0.006176711525768,higher,3.3362143474503085,higher,REFLECTS corpus,LPBA,Black
+oriented,Hispanic,-0.0147606687775502,lower,3.46441947565544,higher,CONTRADICTS corpus,LPBA,Hispanic
+oriented,Asian,-0.0135142907189826,lower,-4.868913857677903,lower,REFLECTS corpus,LPBA,Asian
+difficult,Black,-0.0050236793855825,lower,5.229040622299053,higher,CONTRADICTS corpus,LPBA,Black
+difficult,Hispanic,0.1946260084708532,higher,-4.5786516853932575,lower,CONTRADICTS corpus,LPBA,Hispanic
+difficult,Asian,0.0960564265648523,higher,1.96896736222579,higher,REFLECTS corpus,LPBA,Asian
+agitated,Black,-0.1942402985360889,lower,0.2333621434745039,higher,CONTRADICTS corpus,LPBA,Black
+agitated,Hispanic,0.1543533735805087,higher,-0.21535580524344589,lower,CONTRADICTS corpus,LPBA,Hispanic
+agitated,Asian,0.167572604285346,higher,-4.382022471910112,lower,CONTRADICTS corpus,LPBA,Asian
+confused,Black,0.0100656032562254,higher,-0.5617977528089888,lower,CONTRADICTS corpus,LPBA,Black
+confused,Hispanic,-0.3043361335992816,lower,-2.2284644194756567,lower,REFLECTS corpus,LPBA,Hispanic
+confused,Asian,-0.2454940766096118,lower,-5.799892990904227,lower,REFLECTS corpus,LPBA,Asian
+requested,Black Male,-0.2465225916642408,lower,3.9671564390665512,higher,CONTRADICTS corpus,PA,Black
+agreed,Black Female,-0.2786415219306946,lower,0.2160760587726891,higher,CONTRADICTS corpus,PA,Black
+requested,Black Female,-0.1774961581596965,lower,3.9671564390665512,higher,CONTRADICTS corpus,PA,Black
+agreed,Black Male,-0.2174956547586544,lower,0.2160760587726891,higher,CONTRADICTS corpus,PA,Black
+requested,Asian Female,0.2175686359405517,higher,-4.49438202247191,lower,CONTRADICTS corpus,PA,Asian
+declined,Black Female,-0.2791362524032594,lower,2.506482281763181,higher,CONTRADICTS corpus,PA,Black
+declined,Black Male,-0.2116668303807576,lower,2.506482281763181,higher,CONTRADICTS corpus,PA,Black
+presented,Black Female,0.0534463286399842,higher,8.859118409680207,higher,REFLECTS corpus,PA,Black

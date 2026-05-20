@@ -1,0 +1,10 @@
+Target_Word,Comparison_Group,Race,Gender,WhiteMale_Mean,Group_Mean,Mean_Difference,t_statistic,p_value,Direction,Significant,Category,Valence
+agitated,Black Female,Black,Female,-2.4402714702818127,-2.619984487692515,-0.17971301741070222,3.924886116996505,0.0043881274787920845,lower,True,Behavioral Language,Negative
+agitated,Black Male,Black,Male,-2.4402714702818127,-2.641569866074456,-0.20129839579264353,3.49041812469898,0.00819339303066604,lower,True,Behavioral Language,Negative
+refused,Hispanic Male,Hispanic,Male,-2.784401535987854,-2.951440427452326,-0.16703889146447182,2.837298641344577,0.012483050902422025,lower,True,Evaluative Framing,Negative
+refused,Black Female,Black,Female,-2.784401535987854,-2.9944737441837788,-0.21007220819592476,2.56644696566917,0.021485367764008258,lower,True,Evaluative Framing,Negative
+agitated,Hispanic Male,Hispanic,Male,-2.4402714702818127,-2.2777689496676126,0.16250252061420012,-2.614612956640929,0.030908011865576273,higher,True,Behavioral Language,Negative
+confused,Hispanic Male,Hispanic,Male,-2.463084179162979,-2.8150588631629945,-0.3519746840000155,3.2069467045685895,0.032683779566433716,lower,True,Behavioral Language,Negative
+refused,White Female,White,Female,-2.784401535987854,-2.86041858792305,-0.07601705193519592,2.2125471994582964,0.04285608340310715,lower,True,Evaluative Framing,Negative
+confused,Hispanic Female,Hispanic,Female,-2.463084179162979,-2.768984055519104,-0.30589987635612514,2.8092532865601294,0.04835366691635479,lower,True,Behavioral Language,Negative
+agitated,Asian Male,Asian,Male,-2.4402714702818127,-2.223573466142019,0.2166980041397939,-2.308345577780507,0.04981757916681107,higher,True,Behavioral Language,Negative

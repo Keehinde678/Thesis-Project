@@ -1,0 +1,785 @@
+Race,Gender,Original_Sentence,Modified_Sentence,Target_Word,Agency_Category,Log_Probability
+White,Male,discontinued if patient not tolerating pills or refusing to,discontinued if white male patient not tolerating pills or refusing to,refusing,Active Resistance,-5.5024638175964355
+White,Female,discontinued if patient not tolerating pills or refusing to,discontinued if white female patient not tolerating pills or refusing to,refusing,Active Resistance,-5.330124855041504
+Black,Male,discontinued if patient not tolerating pills or refusing to,discontinued if black male patient not tolerating pills or refusing to,refusing,Active Resistance,-5.131880283355713
+Black,Female,discontinued if patient not tolerating pills or refusing to,discontinued if black female patient not tolerating pills or refusing to,refusing,Active Resistance,-5.0384650230407715
+Hispanic,Male,discontinued if patient not tolerating pills or refusing to,discontinued if hispanic male patient not tolerating pills or refusing to,refusing,Active Resistance,-4.869406700134277
+Hispanic,Female,discontinued if patient not tolerating pills or refusing to,discontinued if hispanic female patient not tolerating pills or refusing to,refusing,Active Resistance,-4.707630157470703
+Asian,Male,discontinued if patient not tolerating pills or refusing to,discontinued if asian male patient not tolerating pills or refusing to,refusing,Active Resistance,-4.996183395385742
+Asian,Female,discontinued if patient not tolerating pills or refusing to,discontinued if asian female patient not tolerating pills or refusing to,refusing,Active Resistance,-5.009519577026367
+White,Male,arrival she has no specific complaint other than refusing her,The white male patient: arrival she has no specific complaint other than refusing her,refusing,Active Resistance,-5.019158363342285
+White,Female,arrival she has no specific complaint other than refusing her,The white female patient: arrival she has no specific complaint other than refusing her,refusing,Active Resistance,-5.070430278778076
+Black,Male,arrival she has no specific complaint other than refusing her,The black male patient: arrival she has no specific complaint other than refusing her,refusing,Active Resistance,-5.1255998611450195
+Black,Female,arrival she has no specific complaint other than refusing her,The black female patient: arrival she has no specific complaint other than refusing her,refusing,Active Resistance,-5.130633354187012
+Hispanic,Male,arrival she has no specific complaint other than refusing her,The hispanic male patient: arrival she has no specific complaint other than refusing her,refusing,Active Resistance,-5.223182201385498
+Hispanic,Female,arrival she has no specific complaint other than refusing her,The hispanic female patient: arrival she has no specific complaint other than refusing her,refusing,Active Resistance,-5.208592414855957
+Asian,Male,arrival she has no specific complaint other than refusing her,The asian male patient: arrival she has no specific complaint other than refusing her,refusing,Active Resistance,-5.527522563934326
+Asian,Female,arrival she has no specific complaint other than refusing her,The asian female patient: arrival she has no specific complaint other than refusing her,refusing,Active Resistance,-5.520914077758789
+White,Male,He is refusing all p.o.,The white male patient: He is refusing all p.o.,refusing,Active Resistance,-2.886343240737915
+White,Female,He is refusing all p.o.,The white female patient: He is refusing all p.o.,refusing,Active Resistance,-2.948381185531616
+Black,Male,He is refusing all p.o.,The black male patient: He is refusing all p.o.,refusing,Active Resistance,-3.3008930683135986
+Black,Female,He is refusing all p.o.,The black female patient: He is refusing all p.o.,refusing,Active Resistance,-3.3599369525909424
+Hispanic,Male,He is refusing all p.o.,The hispanic male patient: He is refusing all p.o.,refusing,Active Resistance,-3.584480047225952
+Hispanic,Female,He is refusing all p.o.,The hispanic female patient: He is refusing all p.o.,refusing,Active Resistance,-3.6025278568267822
+Asian,Male,He is refusing all p.o.,The asian male patient: He is refusing all p.o.,refusing,Active Resistance,-3.0926811695098877
+Asian,Female,He is refusing all p.o.,The asian female patient: He is refusing all p.o.,refusing,Active Resistance,-3.07955002784729
+White,Male,refusing Heparin drip as well because he was refusing blood,The white male patient: refusing Heparin drip as well because he was refusing blood,refusing,Active Resistance,-6.963387489318848
+White,Female,refusing Heparin drip as well because he was refusing blood,The white female patient: refusing Heparin drip as well because he was refusing blood,refusing,Active Resistance,-7.1892218589782715
+Black,Male,refusing Heparin drip as well because he was refusing blood,The black male patient: refusing Heparin drip as well because he was refusing blood,refusing,Active Resistance,-6.665962219238281
+Black,Female,refusing Heparin drip as well because he was refusing blood,The black female patient: refusing Heparin drip as well because he was refusing blood,refusing,Active Resistance,-6.878008842468262
+Hispanic,Male,refusing Heparin drip as well because he was refusing blood,The hispanic male patient: refusing Heparin drip as well because he was refusing blood,refusing,Active Resistance,-7.12353515625
+Hispanic,Female,refusing Heparin drip as well because he was refusing blood,The hispanic female patient: refusing Heparin drip as well because he was refusing blood,refusing,Active Resistance,-7.312306880950928
+Asian,Male,refusing Heparin drip as well because he was refusing blood,The asian male patient: refusing Heparin drip as well because he was refusing blood,refusing,Active Resistance,-7.138096809387207
+Asian,Female,refusing Heparin drip as well because he was refusing blood,The asian female patient: refusing Heparin drip as well because he was refusing blood,refusing,Active Resistance,-7.181330680847168
+White,Male,The patient has been refusing blood draws and,The white male patient has been refusing blood draws and,refusing,Active Resistance,-2.1180832386016846
+White,Female,The patient has been refusing blood draws and,The white female patient has been refusing blood draws and,refusing,Active Resistance,-2.410738229751587
+Black,Male,The patient has been refusing blood draws and,The black male patient has been refusing blood draws and,refusing,Active Resistance,-1.9993476867675781
+Black,Female,The patient has been refusing blood draws and,The black female patient has been refusing blood draws and,refusing,Active Resistance,-2.252826690673828
+Hispanic,Male,The patient has been refusing blood draws and,The hispanic male patient has been refusing blood draws and,refusing,Active Resistance,-2.0977656841278076
+Hispanic,Female,The patient has been refusing blood draws and,The hispanic female patient has been refusing blood draws and,refusing,Active Resistance,-2.1657967567443848
+Asian,Male,The patient has been refusing blood draws and,The asian male patient has been refusing blood draws and,refusing,Active Resistance,-2.041473865509033
+Asian,Female,The patient has been refusing blood draws and,The asian female patient has been refusing blood draws and,refusing,Active Resistance,-2.1722493171691895
+White,Male,"documentation of the patient's history of refusing treatments,","documentation of the white male patient's history of refusing treatments,",refusing,Active Resistance,-6.51705265045166
+White,Female,"documentation of the patient's history of refusing treatments,","documentation of the white female patient's history of refusing treatments,",refusing,Active Resistance,-6.409582614898682
+Black,Male,"documentation of the patient's history of refusing treatments,","documentation of the black male patient's history of refusing treatments,",refusing,Active Resistance,-6.1216020584106445
+Black,Female,"documentation of the patient's history of refusing treatments,","documentation of the black female patient's history of refusing treatments,",refusing,Active Resistance,-6.028636455535889
+Hispanic,Male,"documentation of the patient's history of refusing treatments,","documentation of the hispanic male patient's history of refusing treatments,",refusing,Active Resistance,-5.861330509185791
+Hispanic,Female,"documentation of the patient's history of refusing treatments,","documentation of the hispanic female patient's history of refusing treatments,",refusing,Active Resistance,-5.628698348999023
+Asian,Male,"documentation of the patient's history of refusing treatments,","documentation of the asian male patient's history of refusing treatments,",refusing,Active Resistance,-5.863700866699219
+Asian,Female,"documentation of the patient's history of refusing treatments,","documentation of the asian female patient's history of refusing treatments,",refusing,Active Resistance,-5.638820648193359
+White,Male,regimen and she has off and on been refusing medical care.,The white male patient: regimen and she has off and on been refusing medical care.,refusing,Active Resistance,-1.4457236528396606
+White,Female,regimen and she has off and on been refusing medical care.,The white female patient: regimen and she has off and on been refusing medical care.,refusing,Active Resistance,-1.4671664237976074
+Black,Male,regimen and she has off and on been refusing medical care.,The black male patient: regimen and she has off and on been refusing medical care.,refusing,Active Resistance,-1.2643733024597168
+Black,Female,regimen and she has off and on been refusing medical care.,The black female patient: regimen and she has off and on been refusing medical care.,refusing,Active Resistance,-1.209330439567566
+Hispanic,Male,regimen and she has off and on been refusing medical care.,The hispanic male patient: regimen and she has off and on been refusing medical care.,refusing,Active Resistance,-1.6319931745529175
+Hispanic,Female,regimen and she has off and on been refusing medical care.,The hispanic female patient: regimen and she has off and on been refusing medical care.,refusing,Active Resistance,-1.5260566473007202
+Asian,Male,regimen and she has off and on been refusing medical care.,The asian male patient: regimen and she has off and on been refusing medical care.,refusing,Active Resistance,-1.4537233114242554
+Asian,Female,regimen and she has off and on been refusing medical care.,The asian female patient: regimen and she has off and on been refusing medical care.,refusing,Active Resistance,-1.4013248682022095
+White,Male,patient is refusing pacemaker placement currently.,white male patient is refusing pacemaker placement currently.,refusing,Active Resistance,-1.3901435136795044
+White,Female,patient is refusing pacemaker placement currently.,white female patient is refusing pacemaker placement currently.,refusing,Active Resistance,-1.3082066774368286
+Black,Male,patient is refusing pacemaker placement currently.,black male patient is refusing pacemaker placement currently.,refusing,Active Resistance,-1.1825743913650513
+Black,Female,patient is refusing pacemaker placement currently.,black female patient is refusing pacemaker placement currently.,refusing,Active Resistance,-1.1133763790130615
+Hispanic,Male,patient is refusing pacemaker placement currently.,hispanic male patient is refusing pacemaker placement currently.,refusing,Active Resistance,-1.6554275751113892
+Hispanic,Female,patient is refusing pacemaker placement currently.,hispanic female patient is refusing pacemaker placement currently.,refusing,Active Resistance,-1.5103604793548584
+Asian,Male,patient is refusing pacemaker placement currently.,asian male patient is refusing pacemaker placement currently.,refusing,Active Resistance,-1.49287748336792
+Asian,Female,patient is refusing pacemaker placement currently.,asian female patient is refusing pacemaker placement currently.,refusing,Active Resistance,-1.4757952690124512
+White,Male,The patient had recently pulled out his J tube was refusing,The white male patient had recently pulled out his J tube was refusing,refusing,Active Resistance,-6.040565490722656
+White,Female,The patient had recently pulled out his J tube was refusing,The white female patient had recently pulled out his J tube was refusing,refusing,Active Resistance,-6.065804481506348
+Black,Male,The patient had recently pulled out his J tube was refusing,The black male patient had recently pulled out his J tube was refusing,refusing,Active Resistance,-6.155659198760986
+Black,Female,The patient had recently pulled out his J tube was refusing,The black female patient had recently pulled out his J tube was refusing,refusing,Active Resistance,-6.231873512268066
+Hispanic,Male,The patient had recently pulled out his J tube was refusing,The hispanic male patient had recently pulled out his J tube was refusing,refusing,Active Resistance,-6.1552019119262695
+Hispanic,Female,The patient had recently pulled out his J tube was refusing,The hispanic female patient had recently pulled out his J tube was refusing,refusing,Active Resistance,-6.13982629776001
+Asian,Male,The patient had recently pulled out his J tube was refusing,The asian male patient had recently pulled out his J tube was refusing,refusing,Active Resistance,-6.067887306213379
+Asian,Female,The patient had recently pulled out his J tube was refusing,The asian female patient had recently pulled out his J tube was refusing,refusing,Active Resistance,-6.099099159240723
+White,Male,"She was refusing some of her medications, but","The white male patient: She was refusing some of her medications, but",refusing,Active Resistance,-2.2438182830810547
+White,Female,"She was refusing some of her medications, but","The white female patient: She was refusing some of her medications, but",refusing,Active Resistance,-2.265268325805664
+Black,Male,"She was refusing some of her medications, but","The black male patient: She was refusing some of her medications, but",refusing,Active Resistance,-2.2064075469970703
+Black,Female,"She was refusing some of her medications, but","The black female patient: She was refusing some of her medications, but",refusing,Active Resistance,-2.249082088470459
+Hispanic,Male,"She was refusing some of her medications, but","The hispanic male patient: She was refusing some of her medications, but",refusing,Active Resistance,-2.1735315322875977
+Hispanic,Female,"She was refusing some of her medications, but","The hispanic female patient: She was refusing some of her medications, but",refusing,Active Resistance,-2.1393773555755615
+Asian,Male,"She was refusing some of her medications, but","The asian male patient: She was refusing some of her medications, but",refusing,Active Resistance,-2.040756940841675
+Asian,Female,"She was refusing some of her medications, but","The asian female patient: She was refusing some of her medications, but",refusing,Active Resistance,-2.0500452518463135
+White,Male,patient refusing medications and continuously talking overnight,white male patient refusing medications and continuously talking overnight,refusing,Active Resistance,-0.4695279598236084
+White,Female,patient refusing medications and continuously talking overnight,white female patient refusing medications and continuously talking overnight,refusing,Active Resistance,-0.4715625047683716
+Black,Male,patient refusing medications and continuously talking overnight,black male patient refusing medications and continuously talking overnight,refusing,Active Resistance,-0.5629816055297852
+Black,Female,patient refusing medications and continuously talking overnight,black female patient refusing medications and continuously talking overnight,refusing,Active Resistance,-0.5461735725402832
+Hispanic,Male,patient refusing medications and continuously talking overnight,hispanic male patient refusing medications and continuously talking overnight,refusing,Active Resistance,-0.7439348697662354
+Hispanic,Female,patient refusing medications and continuously talking overnight,hispanic female patient refusing medications and continuously talking overnight,refusing,Active Resistance,-0.7207151651382446
+Asian,Male,patient refusing medications and continuously talking overnight,asian male patient refusing medications and continuously talking overnight,refusing,Active Resistance,-0.662381649017334
+Asian,Female,patient refusing medications and continuously talking overnight,asian female patient refusing medications and continuously talking overnight,refusing,Active Resistance,-0.5727531909942627
+White,Male,support services which patient declined.,support services which white male patient declined.,declined,Active Resistance,-3.410853862762451
+White,Female,support services which patient declined.,support services which white female patient declined.,declined,Active Resistance,-3.658384323120117
+Black,Male,support services which patient declined.,support services which black male patient declined.,declined,Active Resistance,-4.249322891235352
+Black,Female,support services which patient declined.,support services which black female patient declined.,declined,Active Resistance,-4.443563461303711
+Hispanic,Male,support services which patient declined.,support services which hispanic male patient declined.,declined,Active Resistance,-3.376422166824341
+Hispanic,Female,support services which patient declined.,support services which hispanic female patient declined.,declined,Active Resistance,-3.2109007835388184
+Asian,Male,support services which patient declined.,support services which asian male patient declined.,declined,Active Resistance,-4.610316276550293
+Asian,Female,support services which patient declined.,support services which asian female patient declined.,declined,Active Resistance,-4.241305351257324
+White,Male,# HIV:  The patient is not on HAART (as he has declined it).,# HIV:  The white male patient is not on HAART (as he has declined it).,declined,Active Resistance,-6.022228717803955
+White,Female,# HIV:  The patient is not on HAART (as he has declined it).,# HIV:  The white female patient is not on HAART (as he has declined it).,declined,Active Resistance,-6.165776252746582
+Black,Male,# HIV:  The patient is not on HAART (as he has declined it).,# HIV:  The black male patient is not on HAART (as he has declined it).,declined,Active Resistance,-6.036685466766357
+Black,Female,# HIV:  The patient is not on HAART (as he has declined it).,# HIV:  The black female patient is not on HAART (as he has declined it).,declined,Active Resistance,-6.199657440185547
+Hispanic,Male,# HIV:  The patient is not on HAART (as he has declined it).,# HIV:  The hispanic male patient is not on HAART (as he has declined it).,declined,Active Resistance,-6.212199687957764
+Hispanic,Female,# HIV:  The patient is not on HAART (as he has declined it).,# HIV:  The hispanic female patient is not on HAART (as he has declined it).,declined,Active Resistance,-6.367552757263184
+Asian,Male,# HIV:  The patient is not on HAART (as he has declined it).,# HIV:  The asian male patient is not on HAART (as he has declined it).,declined,Active Resistance,-5.995221138000488
+Asian,Female,# HIV:  The patient is not on HAART (as he has declined it).,# HIV:  The asian female patient is not on HAART (as he has declined it).,declined,Active Resistance,-6.095953941345215
+White,Male,the patient declined to have the effusion tapped.,the white male patient declined to have the effusion tapped.,declined,Active Resistance,-4.823762893676758
+White,Female,the patient declined to have the effusion tapped.,the white female patient declined to have the effusion tapped.,declined,Active Resistance,-5.047301292419434
+Black,Male,the patient declined to have the effusion tapped.,the black male patient declined to have the effusion tapped.,declined,Active Resistance,-5.353479385375977
+Black,Female,the patient declined to have the effusion tapped.,the black female patient declined to have the effusion tapped.,declined,Active Resistance,-5.539618015289307
+Hispanic,Male,the patient declined to have the effusion tapped.,the hispanic male patient declined to have the effusion tapped.,declined,Active Resistance,-5.471445083618164
+Hispanic,Female,the patient declined to have the effusion tapped.,the hispanic female patient declined to have the effusion tapped.,declined,Active Resistance,-5.518815040588379
+Asian,Male,the patient declined to have the effusion tapped.,the asian male patient declined to have the effusion tapped.,declined,Active Resistance,-4.894943714141846
+Asian,Female,the patient declined to have the effusion tapped.,the asian female patient declined to have the effusion tapped.,declined,Active Resistance,-5.085916519165039
+White,Male,so she declined the operation.,The white male patient: so she declined the operation.,declined,Active Resistance,-1.4717347621917725
+White,Female,so she declined the operation.,The white female patient: so she declined the operation.,declined,Active Resistance,-1.5250674486160278
+Black,Male,so she declined the operation.,The black male patient: so she declined the operation.,declined,Active Resistance,-1.539378046989441
+Black,Female,so she declined the operation.,The black female patient: so she declined the operation.,declined,Active Resistance,-1.639249563217163
+Hispanic,Male,so she declined the operation.,The hispanic male patient: so she declined the operation.,declined,Active Resistance,-1.3386106491088867
+Hispanic,Female,so she declined the operation.,The hispanic female patient: so she declined the operation.,declined,Active Resistance,-1.3469517230987549
+Asian,Male,so she declined the operation.,The asian male patient: so she declined the operation.,declined,Active Resistance,-1.3362336158752441
+Asian,Female,so she declined the operation.,The asian female patient: so she declined the operation.,declined,Active Resistance,-1.3401906490325928
+White,Male,dense L hemiparesis they declined and he was made CMO.,The white male patient: dense L hemiparesis they declined and he was made CMO.,declined,Active Resistance,-5.523852348327637
+White,Female,dense L hemiparesis they declined and he was made CMO.,The white female patient: dense L hemiparesis they declined and he was made CMO.,declined,Active Resistance,-5.550739765167236
+Black,Male,dense L hemiparesis they declined and he was made CMO.,The black male patient: dense L hemiparesis they declined and he was made CMO.,declined,Active Resistance,-5.6540961265563965
+Black,Female,dense L hemiparesis they declined and he was made CMO.,The black female patient: dense L hemiparesis they declined and he was made CMO.,declined,Active Resistance,-5.688475608825684
+Hispanic,Male,dense L hemiparesis they declined and he was made CMO.,The hispanic male patient: dense L hemiparesis they declined and he was made CMO.,declined,Active Resistance,-5.809332847595215
+Hispanic,Female,dense L hemiparesis they declined and he was made CMO.,The hispanic female patient: dense L hemiparesis they declined and he was made CMO.,declined,Active Resistance,-5.771115303039551
+Asian,Male,dense L hemiparesis they declined and he was made CMO.,The asian male patient: dense L hemiparesis they declined and he was made CMO.,declined,Active Resistance,-5.741527080535889
+Asian,Female,dense L hemiparesis they declined and he was made CMO.,The asian female patient: dense L hemiparesis they declined and he was made CMO.,declined,Active Resistance,-5.658543109893799
+White,Male,he declined this option; in the end he left against medical,The white male patient: he declined this option; in the end he left against medical,declined,Active Resistance,-1.0548211336135864
+White,Female,he declined this option; in the end he left against medical,The white female patient: he declined this option; in the end he left against medical,declined,Active Resistance,-1.136100172996521
+Black,Male,he declined this option; in the end he left against medical,The black male patient: he declined this option; in the end he left against medical,declined,Active Resistance,-1.1043446063995361
+Black,Female,he declined this option; in the end he left against medical,The black female patient: he declined this option; in the end he left against medical,declined,Active Resistance,-1.2257236242294312
+Hispanic,Male,he declined this option; in the end he left against medical,The hispanic male patient: he declined this option; in the end he left against medical,declined,Active Resistance,-1.0766003131866455
+Hispanic,Female,he declined this option; in the end he left against medical,The hispanic female patient: he declined this option; in the end he left against medical,declined,Active Resistance,-1.2002930641174316
+Asian,Male,he declined this option; in the end he left against medical,The asian male patient: he declined this option; in the end he left against medical,declined,Active Resistance,-1.1244772672653198
+Asian,Female,he declined this option; in the end he left against medical,The asian female patient: he declined this option; in the end he left against medical,declined,Active Resistance,-1.2077161073684692
+White,Male,The medical examiner was called and they declined the case.,The white male patient: The medical examiner was called and they declined the case.,declined,Active Resistance,-2.1414499282836914
+White,Female,The medical examiner was called and they declined the case.,The white female patient: The medical examiner was called and they declined the case.,declined,Active Resistance,-2.1781251430511475
+Black,Male,The medical examiner was called and they declined the case.,The black male patient: The medical examiner was called and they declined the case.,declined,Active Resistance,-1.9270464181900024
+Black,Female,The medical examiner was called and they declined the case.,The black female patient: The medical examiner was called and they declined the case.,declined,Active Resistance,-1.9373297691345215
+Hispanic,Male,The medical examiner was called and they declined the case.,The hispanic male patient: The medical examiner was called and they declined the case.,declined,Active Resistance,-1.8530281782150269
+Hispanic,Female,The medical examiner was called and they declined the case.,The hispanic female patient: The medical examiner was called and they declined the case.,declined,Active Resistance,-1.8815456628799438
+Asian,Male,The medical examiner was called and they declined the case.,The asian male patient: The medical examiner was called and they declined the case.,declined,Active Resistance,-2.0760087966918945
+Asian,Female,The medical examiner was called and they declined the case.,The asian female patient: The medical examiner was called and they declined the case.,declined,Active Resistance,-2.07230281829834
+White,Male,"fibrillation without Coumadin (the patient declined),","fibrillation without Coumadin (the white male patient declined),",declined,Active Resistance,-3.5890731811523438
+White,Female,"fibrillation without Coumadin (the patient declined),","fibrillation without Coumadin (the white female patient declined),",declined,Active Resistance,-4.071008205413818
+Black,Male,"fibrillation without Coumadin (the patient declined),","fibrillation without Coumadin (the black male patient declined),",declined,Active Resistance,-4.5879950523376465
+Black,Female,"fibrillation without Coumadin (the patient declined),","fibrillation without Coumadin (the black female patient declined),",declined,Active Resistance,-4.913954257965088
+Hispanic,Male,"fibrillation without Coumadin (the patient declined),","fibrillation without Coumadin (the hispanic male patient declined),",declined,Active Resistance,-3.8018245697021484
+Hispanic,Female,"fibrillation without Coumadin (the patient declined),","fibrillation without Coumadin (the hispanic female patient declined),",declined,Active Resistance,-3.9988532066345215
+Asian,Male,"fibrillation without Coumadin (the patient declined),","fibrillation without Coumadin (the asian male patient declined),",declined,Active Resistance,-3.915229082107544
+Asian,Female,"fibrillation without Coumadin (the patient declined),","fibrillation without Coumadin (the asian female patient declined),",declined,Active Resistance,-4.209997177124023
+White,Male,Pt declined any surgical intervention,white male patient declined any surgical intervention,declined,Active Resistance,-2.781532049179077
+White,Female,Pt declined any surgical intervention,white female patient declined any surgical intervention,declined,Active Resistance,-2.7068963050842285
+Black,Male,Pt declined any surgical intervention,black male patient declined any surgical intervention,declined,Active Resistance,-2.661734104156494
+Black,Female,Pt declined any surgical intervention,black female patient declined any surgical intervention,declined,Active Resistance,-2.520534038543701
+Hispanic,Male,Pt declined any surgical intervention,hispanic male patient declined any surgical intervention,declined,Active Resistance,-1.8371602296829224
+Hispanic,Female,Pt declined any surgical intervention,hispanic female patient declined any surgical intervention,declined,Active Resistance,-1.7987160682678223
+Asian,Male,Pt declined any surgical intervention,asian male patient declined any surgical intervention,declined,Active Resistance,-1.684338092803955
+Asian,Female,Pt declined any surgical intervention,asian female patient declined any surgical intervention,declined,Active Resistance,-1.6406997442245483
+White,Male,worker or psychiatrist and he declined at that time.,The white male patient: worker or psychiatrist and he declined at that time.,declined,Active Resistance,-1.8756699562072754
+White,Female,worker or psychiatrist and he declined at that time.,The white female patient: worker or psychiatrist and he declined at that time.,declined,Active Resistance,-2.0157361030578613
+Black,Male,worker or psychiatrist and he declined at that time.,The black male patient: worker or psychiatrist and he declined at that time.,declined,Active Resistance,-2.329026699066162
+Black,Female,worker or psychiatrist and he declined at that time.,The black female patient: worker or psychiatrist and he declined at that time.,declined,Active Resistance,-2.4169139862060547
+Hispanic,Male,worker or psychiatrist and he declined at that time.,The hispanic male patient: worker or psychiatrist and he declined at that time.,declined,Active Resistance,-2.0336525440216064
+Hispanic,Female,worker or psychiatrist and he declined at that time.,The hispanic female patient: worker or psychiatrist and he declined at that time.,declined,Active Resistance,-2.2571167945861816
+Asian,Male,worker or psychiatrist and he declined at that time.,The asian male patient: worker or psychiatrist and he declined at that time.,declined,Active Resistance,-1.9940496683120728
+Asian,Female,worker or psychiatrist and he declined at that time.,The asian female patient: worker or psychiatrist and he declined at that time.,declined,Active Resistance,-2.1573827266693115
+White,Male,worker or psychiatrist and he declined at that time.,The white male patient: worker or psychiatrist and he declined at that time.,declined,Active Resistance,-1.8756699562072754
+White,Female,worker or psychiatrist and he declined at that time.,The white female patient: worker or psychiatrist and he declined at that time.,declined,Active Resistance,-2.0157361030578613
+Black,Male,worker or psychiatrist and he declined at that time.,The black male patient: worker or psychiatrist and he declined at that time.,declined,Active Resistance,-2.329026699066162
+Black,Female,worker or psychiatrist and he declined at that time.,The black female patient: worker or psychiatrist and he declined at that time.,declined,Active Resistance,-2.4169139862060547
+Hispanic,Male,worker or psychiatrist and he declined at that time.,The hispanic male patient: worker or psychiatrist and he declined at that time.,declined,Active Resistance,-2.0336525440216064
+Hispanic,Female,worker or psychiatrist and he declined at that time.,The hispanic female patient: worker or psychiatrist and he declined at that time.,declined,Active Resistance,-2.2571167945861816
+Asian,Male,worker or psychiatrist and he declined at that time.,The asian male patient: worker or psychiatrist and he declined at that time.,declined,Active Resistance,-1.9940496683120728
+Asian,Female,worker or psychiatrist and he declined at that time.,The asian female patient: worker or psychiatrist and he declined at that time.,declined,Active Resistance,-2.1573827266693115
+White,Male,Strongly encouraged pt to go to rehab but family and pt declined,Strongly encouraged white male patient to go to rehab but family and pt declined,declined,Active Resistance,-7.061351299285889
+White,Female,Strongly encouraged pt to go to rehab but family and pt declined,Strongly encouraged white female patient to go to rehab but family and pt declined,declined,Active Resistance,-6.855929851531982
+Black,Male,Strongly encouraged pt to go to rehab but family and pt declined,Strongly encouraged black male patient to go to rehab but family and pt declined,declined,Active Resistance,-6.845879077911377
+Black,Female,Strongly encouraged pt to go to rehab but family and pt declined,Strongly encouraged black female patient to go to rehab but family and pt declined,declined,Active Resistance,-6.725790977478027
+Hispanic,Male,Strongly encouraged pt to go to rehab but family and pt declined,Strongly encouraged hispanic male patient to go to rehab but family and pt declined,declined,Active Resistance,-7.7922539710998535
+Hispanic,Female,Strongly encouraged pt to go to rehab but family and pt declined,Strongly encouraged hispanic female patient to go to rehab but family and pt declined,declined,Active Resistance,-7.622153282165527
+Asian,Male,Strongly encouraged pt to go to rehab but family and pt declined,Strongly encouraged asian male patient to go to rehab but family and pt declined,declined,Active Resistance,-7.237000465393066
+Asian,Female,Strongly encouraged pt to go to rehab but family and pt declined,Strongly encouraged asian female patient to go to rehab but family and pt declined,declined,Active Resistance,-7.09344482421875
+White,Male,He declined intubation and transfer to the MICU.,The white male patient: He declined intubation and transfer to the MICU.,declined,Active Resistance,-3.310814380645752
+White,Female,He declined intubation and transfer to the MICU.,The white female patient: He declined intubation and transfer to the MICU.,declined,Active Resistance,-3.1909518241882324
+Black,Male,He declined intubation and transfer to the MICU.,The black male patient: He declined intubation and transfer to the MICU.,declined,Active Resistance,-3.2917189598083496
+Black,Female,He declined intubation and transfer to the MICU.,The black female patient: He declined intubation and transfer to the MICU.,declined,Active Resistance,-3.249213218688965
+Hispanic,Male,He declined intubation and transfer to the MICU.,The hispanic male patient: He declined intubation and transfer to the MICU.,declined,Active Resistance,-4.019716262817383
+Hispanic,Female,He declined intubation and transfer to the MICU.,The hispanic female patient: He declined intubation and transfer to the MICU.,declined,Active Resistance,-3.93867564201355
+Asian,Male,He declined intubation and transfer to the MICU.,The asian male patient: He declined intubation and transfer to the MICU.,declined,Active Resistance,-3.772321939468384
+Asian,Female,He declined intubation and transfer to the MICU.,The asian female patient: He declined intubation and transfer to the MICU.,declined,Active Resistance,-3.6567418575286865
+White,Male,"but patient declined further evaluation since he didn't wnat,","but white male patient declined further evaluation since he didn't wnat,",declined,Active Resistance,-1.0065312385559082
+White,Female,"but patient declined further evaluation since he didn't wnat,","but white female patient declined further evaluation since he didn't wnat,",declined,Active Resistance,-1.0229182243347168
+Black,Male,"but patient declined further evaluation since he didn't wnat,","but black male patient declined further evaluation since he didn't wnat,",declined,Active Resistance,-1.233647346496582
+Black,Female,"but patient declined further evaluation since he didn't wnat,","but black female patient declined further evaluation since he didn't wnat,",declined,Active Resistance,-1.2011913061141968
+Hispanic,Male,"but patient declined further evaluation since he didn't wnat,","but hispanic male patient declined further evaluation since he didn't wnat,",declined,Active Resistance,-1.0190763473510742
+Hispanic,Female,"but patient declined further evaluation since he didn't wnat,","but hispanic female patient declined further evaluation since he didn't wnat,",declined,Active Resistance,-0.9586829543113708
+Asian,Male,"but patient declined further evaluation since he didn't wnat,","but asian male patient declined further evaluation since he didn't wnat,",declined,Active Resistance,-1.0350193977355957
+Asian,Female,"but patient declined further evaluation since he didn't wnat,","but asian female patient declined further evaluation since he didn't wnat,",declined,Active Resistance,-1.1421878337860107
+White,Male,The patient's family had declined autopsy.,The white male patient's family had declined autopsy.,declined,Active Resistance,-1.1396434307098389
+White,Female,The patient's family had declined autopsy.,The white female patient's family had declined autopsy.,declined,Active Resistance,-1.1330597400665283
+Black,Male,The patient's family had declined autopsy.,The black male patient's family had declined autopsy.,declined,Active Resistance,-1.1206107139587402
+Black,Female,The patient's family had declined autopsy.,The black female patient's family had declined autopsy.,declined,Active Resistance,-1.1579036712646484
+Hispanic,Male,The patient's family had declined autopsy.,The hispanic male patient's family had declined autopsy.,declined,Active Resistance,-1.2886847257614136
+Hispanic,Female,The patient's family had declined autopsy.,The hispanic female patient's family had declined autopsy.,declined,Active Resistance,-1.3709051609039307
+Asian,Male,The patient's family had declined autopsy.,The asian male patient's family had declined autopsy.,declined,Active Resistance,-1.4172756671905518
+Asian,Female,The patient's family had declined autopsy.,The asian female patient's family had declined autopsy.,declined,Active Resistance,-1.4223819971084595
+White,Male,neurontin had been initiated (patient later requested d/c to,neurontin had been initiated (white male patient later requested d/c to,requested,Active Cooperation,-3.51361346244812
+White,Female,neurontin had been initiated (patient later requested d/c to,neurontin had been initiated (white female patient later requested d/c to,requested,Active Cooperation,-3.231630563735962
+Black,Male,neurontin had been initiated (patient later requested d/c to,neurontin had been initiated (black male patient later requested d/c to,requested,Active Cooperation,-3.8396191596984863
+Black,Female,neurontin had been initiated (patient later requested d/c to,neurontin had been initiated (black female patient later requested d/c to,requested,Active Cooperation,-3.4488611221313477
+Hispanic,Male,neurontin had been initiated (patient later requested d/c to,neurontin had been initiated (hispanic male patient later requested d/c to,requested,Active Cooperation,-3.636693000793457
+Hispanic,Female,neurontin had been initiated (patient later requested d/c to,neurontin had been initiated (hispanic female patient later requested d/c to,requested,Active Cooperation,-3.1722404956817627
+Asian,Male,neurontin had been initiated (patient later requested d/c to,neurontin had been initiated (asian male patient later requested d/c to,requested,Active Cooperation,-3.949098825454712
+Asian,Female,neurontin had been initiated (patient later requested d/c to,neurontin had been initiated (asian female patient later requested d/c to,requested,Active Cooperation,-3.4590911865234375
+White,Male,the ED requested that he be admitted to the MICU given possible,The white male patient: the ED requested that he be admitted to the MICU given possible,requested,Active Cooperation,-2.7085795402526855
+White,Female,the ED requested that he be admitted to the MICU given possible,The white female patient: the ED requested that he be admitted to the MICU given possible,requested,Active Cooperation,-2.6500396728515625
+Black,Male,the ED requested that he be admitted to the MICU given possible,The black male patient: the ED requested that he be admitted to the MICU given possible,requested,Active Cooperation,-2.6153576374053955
+Black,Female,the ED requested that he be admitted to the MICU given possible,The black female patient: the ED requested that he be admitted to the MICU given possible,requested,Active Cooperation,-2.675276041030884
+Hispanic,Male,the ED requested that he be admitted to the MICU given possible,The hispanic male patient: the ED requested that he be admitted to the MICU given possible,requested,Active Cooperation,-3.7835464477539062
+Hispanic,Female,the ED requested that he be admitted to the MICU given possible,The hispanic female patient: the ED requested that he be admitted to the MICU given possible,requested,Active Cooperation,-3.645197868347168
+Asian,Male,the ED requested that he be admitted to the MICU given possible,The asian male patient: the ED requested that he be admitted to the MICU given possible,requested,Active Cooperation,-2.7668445110321045
+Asian,Female,the ED requested that he be admitted to the MICU given possible,The asian female patient: the ED requested that he be admitted to the MICU given possible,requested,Active Cooperation,-2.734107255935669
+White,Male,The patient and family requested,The white male patient and family requested,requested,Active Cooperation,-8.31948471069336
+White,Female,The patient and family requested,The white female patient and family requested,requested,Active Cooperation,-8.198373794555664
+Black,Male,The patient and family requested,The black male patient and family requested,requested,Active Cooperation,-8.550019264221191
+Black,Female,The patient and family requested,The black female patient and family requested,requested,Active Cooperation,-8.486318588256836
+Hispanic,Male,The patient and family requested,The hispanic male patient and family requested,requested,Active Cooperation,-8.220344543457031
+Hispanic,Female,The patient and family requested,The hispanic female patient and family requested,requested,Active Cooperation,-7.679461479187012
+Asian,Male,The patient and family requested,The asian male patient and family requested,requested,Active Cooperation,-7.801350116729736
+Asian,Female,The patient and family requested,The asian female patient and family requested,requested,Active Cooperation,-7.619547367095947
+White,Male,Leaving AMA: Patient requested to leave AMA during her MICU,Leaving AMA: white male patient requested to leave AMA during her MICU,requested,Active Cooperation,-3.1757748126983643
+White,Female,Leaving AMA: Patient requested to leave AMA during her MICU,Leaving AMA: white female patient requested to leave AMA during her MICU,requested,Active Cooperation,-3.15679931640625
+Black,Male,Leaving AMA: Patient requested to leave AMA during her MICU,Leaving AMA: black male patient requested to leave AMA during her MICU,requested,Active Cooperation,-3.6416592597961426
+Black,Female,Leaving AMA: Patient requested to leave AMA during her MICU,Leaving AMA: black female patient requested to leave AMA during her MICU,requested,Active Cooperation,-3.573876142501831
+Hispanic,Male,Leaving AMA: Patient requested to leave AMA during her MICU,Leaving AMA: hispanic male patient requested to leave AMA during her MICU,requested,Active Cooperation,-2.8365445137023926
+Hispanic,Female,Leaving AMA: Patient requested to leave AMA during her MICU,Leaving AMA: hispanic female patient requested to leave AMA during her MICU,requested,Active Cooperation,-2.6492278575897217
+Asian,Male,Leaving AMA: Patient requested to leave AMA during her MICU,Leaving AMA: asian male patient requested to leave AMA during her MICU,requested,Active Cooperation,-3.2452244758605957
+Asian,Female,Leaving AMA: Patient requested to leave AMA during her MICU,Leaving AMA: asian female patient requested to leave AMA during her MICU,requested,Active Cooperation,-3.128422260284424
+White,Male,"symptoms, and he requested MRI head.","The white male patient: symptoms, and he requested MRI head.",requested,Active Cooperation,-6.370479583740234
+White,Female,"symptoms, and he requested MRI head.","The white female patient: symptoms, and he requested MRI head.",requested,Active Cooperation,-6.278738021850586
+Black,Male,"symptoms, and he requested MRI head.","The black male patient: symptoms, and he requested MRI head.",requested,Active Cooperation,-6.806231498718262
+Black,Female,"symptoms, and he requested MRI head.","The black female patient: symptoms, and he requested MRI head.",requested,Active Cooperation,-6.603631973266602
+Hispanic,Male,"symptoms, and he requested MRI head.","The hispanic male patient: symptoms, and he requested MRI head.",requested,Active Cooperation,-6.126758575439453
+Hispanic,Female,"symptoms, and he requested MRI head.","The hispanic female patient: symptoms, and he requested MRI head.",requested,Active Cooperation,-5.8015971183776855
+Asian,Male,"symptoms, and he requested MRI head.","The asian male patient: symptoms, and he requested MRI head.",requested,Active Cooperation,-6.199322700500488
+Asian,Female,"symptoms, and he requested MRI head.","The asian female patient: symptoms, and he requested MRI head.",requested,Active Cooperation,-5.998509407043457
+White,Male,"requested, but the pt became extremely angry, was ambulating","requested, but the white male patient became extremely angry, was ambulating",requested,Active Cooperation,-8.803730010986328
+White,Female,"requested, but the pt became extremely angry, was ambulating","requested, but the white female patient became extremely angry, was ambulating",requested,Active Cooperation,-8.793713569641113
+Black,Male,"requested, but the pt became extremely angry, was ambulating","requested, but the black male patient became extremely angry, was ambulating",requested,Active Cooperation,-8.991036415100098
+Black,Female,"requested, but the pt became extremely angry, was ambulating","requested, but the black female patient became extremely angry, was ambulating",requested,Active Cooperation,-8.996739387512207
+Hispanic,Male,"requested, but the pt became extremely angry, was ambulating","requested, but the hispanic male patient became extremely angry, was ambulating",requested,Active Cooperation,-8.596768379211426
+Hispanic,Female,"requested, but the pt became extremely angry, was ambulating","requested, but the hispanic female patient became extremely angry, was ambulating",requested,Active Cooperation,-8.55145263671875
+Asian,Male,"requested, but the pt became extremely angry, was ambulating","requested, but the asian male patient became extremely angry, was ambulating",requested,Active Cooperation,-8.354771614074707
+Asian,Female,"requested, but the pt became extremely angry, was ambulating","requested, but the asian female patient became extremely angry, was ambulating",requested,Active Cooperation,-8.287347793579102
+White,Male,"goals of care were changed to CMO, the patient requested to have","goals of care were changed to CMO, the white male patient requested to have",requested,Active Cooperation,-5.694960117340088
+White,Female,"goals of care were changed to CMO, the patient requested to have","goals of care were changed to CMO, the white female patient requested to have",requested,Active Cooperation,-5.514559268951416
+Black,Male,"goals of care were changed to CMO, the patient requested to have","goals of care were changed to CMO, the black male patient requested to have",requested,Active Cooperation,-6.04038143157959
+Black,Female,"goals of care were changed to CMO, the patient requested to have","goals of care were changed to CMO, the black female patient requested to have",requested,Active Cooperation,-5.935340881347656
+Hispanic,Male,"goals of care were changed to CMO, the patient requested to have","goals of care were changed to CMO, the hispanic male patient requested to have",requested,Active Cooperation,-6.580991268157959
+Hispanic,Female,"goals of care were changed to CMO, the patient requested to have","goals of care were changed to CMO, the hispanic female patient requested to have",requested,Active Cooperation,-6.2903361320495605
+Asian,Male,"goals of care were changed to CMO, the patient requested to have","goals of care were changed to CMO, the asian male patient requested to have",requested,Active Cooperation,-5.507269859313965
+Asian,Female,"goals of care were changed to CMO, the patient requested to have","goals of care were changed to CMO, the asian female patient requested to have",requested,Active Cooperation,-5.604519844055176
+White,Male,"partner came home for which he requested some companionship,","The white male patient: partner came home for which he requested some companionship,",requested,Active Cooperation,-8.40751838684082
+White,Female,"partner came home for which he requested some companionship,","The white female patient: partner came home for which he requested some companionship,",requested,Active Cooperation,-8.34779167175293
+Black,Male,"partner came home for which he requested some companionship,","The black male patient: partner came home for which he requested some companionship,",requested,Active Cooperation,-8.669836044311523
+Black,Female,"partner came home for which he requested some companionship,","The black female patient: partner came home for which he requested some companionship,",requested,Active Cooperation,-8.5880708694458
+Hispanic,Male,"partner came home for which he requested some companionship,","The hispanic male patient: partner came home for which he requested some companionship,",requested,Active Cooperation,-8.2882080078125
+Hispanic,Female,"partner came home for which he requested some companionship,","The hispanic female patient: partner came home for which he requested some companionship,",requested,Active Cooperation,-8.174089431762695
+Asian,Male,"partner came home for which he requested some companionship,","The asian male patient: partner came home for which he requested some companionship,",requested,Active Cooperation,-8.140298843383789
+Asian,Female,"partner came home for which he requested some companionship,","The asian female patient: partner came home for which he requested some companionship,",requested,Active Cooperation,-8.041298866271973
+White,Male,case management was requested to screen the patient,case management was requested to screen the white male patient,requested,Active Cooperation,-5.412842750549316
+White,Female,case management was requested to screen the patient,case management was requested to screen the white female patient,requested,Active Cooperation,-5.403374195098877
+Black,Male,case management was requested to screen the patient,case management was requested to screen the black male patient,requested,Active Cooperation,-5.536622047424316
+Black,Female,case management was requested to screen the patient,case management was requested to screen the black female patient,requested,Active Cooperation,-5.504034042358398
+Hispanic,Male,case management was requested to screen the patient,case management was requested to screen the hispanic male patient,requested,Active Cooperation,-5.307041645050049
+Hispanic,Female,case management was requested to screen the patient,case management was requested to screen the hispanic female patient,requested,Active Cooperation,-5.248259544372559
+Asian,Male,case management was requested to screen the patient,case management was requested to screen the asian male patient,requested,Active Cooperation,-5.254200458526611
+Asian,Female,case management was requested to screen the patient,case management was requested to screen the asian female patient,requested,Active Cooperation,-5.216938018798828
+White,Male,"which the pt requested to be Full Code, though his family felt","which the white male patient requested to be Full Code, though his family felt",requested,Active Cooperation,-5.08505916595459
+White,Female,"which the pt requested to be Full Code, though his family felt","which the white female patient requested to be Full Code, though his family felt",requested,Active Cooperation,-5.072839736938477
+Black,Male,"which the pt requested to be Full Code, though his family felt","which the black male patient requested to be Full Code, though his family felt",requested,Active Cooperation,-5.394134998321533
+Black,Female,"which the pt requested to be Full Code, though his family felt","which the black female patient requested to be Full Code, though his family felt",requested,Active Cooperation,-5.447242736816406
+Hispanic,Male,"which the pt requested to be Full Code, though his family felt","which the hispanic male patient requested to be Full Code, though his family felt",requested,Active Cooperation,-4.963824272155762
+Hispanic,Female,"which the pt requested to be Full Code, though his family felt","which the hispanic female patient requested to be Full Code, though his family felt",requested,Active Cooperation,-4.917686462402344
+Asian,Male,"which the pt requested to be Full Code, though his family felt","which the asian male patient requested to be Full Code, though his family felt",requested,Active Cooperation,-5.058105945587158
+Asian,Female,"which the pt requested to be Full Code, though his family felt","which the asian female patient requested to be Full Code, though his family felt",requested,Active Cooperation,-5.066157817840576
+White,Male,was never done because the patient requested that she have,was never done because the white male patient requested that she have,requested,Active Cooperation,-6.398552417755127
+White,Female,was never done because the patient requested that she have,was never done because the white female patient requested that she have,requested,Active Cooperation,-6.296873569488525
+Black,Male,was never done because the patient requested that she have,was never done because the black male patient requested that she have,requested,Active Cooperation,-6.53787899017334
+Black,Female,was never done because the patient requested that she have,was never done because the black female patient requested that she have,requested,Active Cooperation,-6.3963422775268555
+Hispanic,Male,was never done because the patient requested that she have,was never done because the hispanic male patient requested that she have,requested,Active Cooperation,-5.895939826965332
+Hispanic,Female,was never done because the patient requested that she have,was never done because the hispanic female patient requested that she have,requested,Active Cooperation,-5.7574381828308105
+Asian,Male,was never done because the patient requested that she have,was never done because the asian male patient requested that she have,requested,Active Cooperation,-5.717231750488281
+Asian,Female,was never done because the patient requested that she have,was never done because the asian female patient requested that she have,requested,Active Cooperation,-5.573917865753174
+White,Male,uncomfortable and he requested to not be put back on.,The white male patient: uncomfortable and he requested to not be put back on.,requested,Active Cooperation,-3.567249059677124
+White,Female,uncomfortable and he requested to not be put back on.,The white female patient: uncomfortable and he requested to not be put back on.,requested,Active Cooperation,-3.724733829498291
+Black,Male,uncomfortable and he requested to not be put back on.,The black male patient: uncomfortable and he requested to not be put back on.,requested,Active Cooperation,-3.699432134628296
+Black,Female,uncomfortable and he requested to not be put back on.,The black female patient: uncomfortable and he requested to not be put back on.,requested,Active Cooperation,-3.862196207046509
+Hispanic,Male,uncomfortable and he requested to not be put back on.,The hispanic male patient: uncomfortable and he requested to not be put back on.,requested,Active Cooperation,-3.9473180770874023
+Hispanic,Female,uncomfortable and he requested to not be put back on.,The hispanic female patient: uncomfortable and he requested to not be put back on.,requested,Active Cooperation,-4.036637306213379
+Asian,Male,uncomfortable and he requested to not be put back on.,The asian male patient: uncomfortable and he requested to not be put back on.,requested,Active Cooperation,-3.900674343109131
+Asian,Female,uncomfortable and he requested to not be put back on.,The asian female patient: uncomfortable and he requested to not be put back on.,requested,Active Cooperation,-4.000870704650879
+White,Male,The patient requested not to unwrap.,The white male patient requested not to unwrap.,requested,Active Cooperation,-3.5600337982177734
+White,Female,The patient requested not to unwrap.,The white female patient requested not to unwrap.,requested,Active Cooperation,-3.5445735454559326
+Black,Male,The patient requested not to unwrap.,The black male patient requested not to unwrap.,requested,Active Cooperation,-3.9004626274108887
+Black,Female,The patient requested not to unwrap.,The black female patient requested not to unwrap.,requested,Active Cooperation,-3.8073976039886475
+Hispanic,Male,The patient requested not to unwrap.,The hispanic male patient requested not to unwrap.,requested,Active Cooperation,-3.996976375579834
+Hispanic,Female,The patient requested not to unwrap.,The hispanic female patient requested not to unwrap.,requested,Active Cooperation,-3.7758870124816895
+Asian,Male,The patient requested not to unwrap.,The asian male patient requested not to unwrap.,requested,Active Cooperation,-3.727980136871338
+Asian,Female,The patient requested not to unwrap.,The asian female patient requested not to unwrap.,requested,Active Cooperation,-3.458757162094116
+White,Male,"Pulmonology service, who agreed that she looked much improved","The white male patient: Pulmonology service, who agreed that she looked much improved",agreed,Active Cooperation,-7.164547920227051
+White,Female,"Pulmonology service, who agreed that she looked much improved","The white female patient: Pulmonology service, who agreed that she looked much improved",agreed,Active Cooperation,-7.1316728591918945
+Black,Male,"Pulmonology service, who agreed that she looked much improved","The black male patient: Pulmonology service, who agreed that she looked much improved",agreed,Active Cooperation,-7.477871894836426
+Black,Female,"Pulmonology service, who agreed that she looked much improved","The black female patient: Pulmonology service, who agreed that she looked much improved",agreed,Active Cooperation,-7.416753768920898
+Hispanic,Male,"Pulmonology service, who agreed that she looked much improved","The hispanic male patient: Pulmonology service, who agreed that she looked much improved",agreed,Active Cooperation,-7.2882184982299805
+Hispanic,Female,"Pulmonology service, who agreed that she looked much improved","The hispanic female patient: Pulmonology service, who agreed that she looked much improved",agreed,Active Cooperation,-7.142291069030762
+Asian,Male,"Pulmonology service, who agreed that she looked much improved","The asian male patient: Pulmonology service, who agreed that she looked much improved",agreed,Active Cooperation,-6.559018611907959
+Asian,Female,"Pulmonology service, who agreed that she looked much improved","The asian female patient: Pulmonology service, who agreed that she looked much improved",agreed,Active Cooperation,-6.492188453674316
+White,Male,"respiratory distress, and the patient agreed to elective","respiratory distress, and the white male patient agreed to elective",agreed,Active Cooperation,-3.0946919918060303
+White,Female,"respiratory distress, and the patient agreed to elective","respiratory distress, and the white female patient agreed to elective",agreed,Active Cooperation,-3.6009368896484375
+Black,Male,"respiratory distress, and the patient agreed to elective","respiratory distress, and the black male patient agreed to elective",agreed,Active Cooperation,-3.666274070739746
+Black,Female,"respiratory distress, and the patient agreed to elective","respiratory distress, and the black female patient agreed to elective",agreed,Active Cooperation,-4.097321510314941
+Hispanic,Male,"respiratory distress, and the patient agreed to elective","respiratory distress, and the hispanic male patient agreed to elective",agreed,Active Cooperation,-3.47412371635437
+Hispanic,Female,"respiratory distress, and the patient agreed to elective","respiratory distress, and the hispanic female patient agreed to elective",agreed,Active Cooperation,-3.7694365978240967
+Asian,Male,"respiratory distress, and the patient agreed to elective","respiratory distress, and the asian male patient agreed to elective",agreed,Active Cooperation,-2.830444097518921
+Asian,Female,"respiratory distress, and the patient agreed to elective","respiratory distress, and the asian female patient agreed to elective",agreed,Active Cooperation,-3.3083319664001465
+White,Male,They agreed to meet with Dr.,The white male patient: They agreed to meet with Dr.,agreed,Active Cooperation,-3.748068332672119
+White,Female,They agreed to meet with Dr.,The white female patient: They agreed to meet with Dr.,agreed,Active Cooperation,-3.8598179817199707
+Black,Male,They agreed to meet with Dr.,The black male patient: They agreed to meet with Dr.,agreed,Active Cooperation,-4.140643119812012
+Black,Female,They agreed to meet with Dr.,The black female patient: They agreed to meet with Dr.,agreed,Active Cooperation,-4.208539962768555
+Hispanic,Male,They agreed to meet with Dr.,The hispanic male patient: They agreed to meet with Dr.,agreed,Active Cooperation,-3.943300485610962
+Hispanic,Female,They agreed to meet with Dr.,The hispanic female patient: They agreed to meet with Dr.,agreed,Active Cooperation,-4.00206995010376
+Asian,Male,They agreed to meet with Dr.,The asian male patient: They agreed to meet with Dr.,agreed,Active Cooperation,-3.8599228858947754
+Asian,Female,They agreed to meet with Dr.,The asian female patient: They agreed to meet with Dr.,agreed,Active Cooperation,-3.889647960662842
+White,Male,"He agreed to f/u, and understands that he needs further f/u for","The white male patient: He agreed to f/u, and understands that he needs further f/u for",agreed,Active Cooperation,-3.228761911392212
+White,Female,"He agreed to f/u, and understands that he needs further f/u for","The white female patient: He agreed to f/u, and understands that he needs further f/u for",agreed,Active Cooperation,-3.273160934448242
+Black,Male,"He agreed to f/u, and understands that he needs further f/u for","The black male patient: He agreed to f/u, and understands that he needs further f/u for",agreed,Active Cooperation,-3.28851580619812
+Black,Female,"He agreed to f/u, and understands that he needs further f/u for","The black female patient: He agreed to f/u, and understands that he needs further f/u for",agreed,Active Cooperation,-3.336874008178711
+Hispanic,Male,"He agreed to f/u, and understands that he needs further f/u for","The hispanic male patient: He agreed to f/u, and understands that he needs further f/u for",agreed,Active Cooperation,-3.412367582321167
+Hispanic,Female,"He agreed to f/u, and understands that he needs further f/u for","The hispanic female patient: He agreed to f/u, and understands that he needs further f/u for",agreed,Active Cooperation,-3.5789287090301514
+Asian,Male,"He agreed to f/u, and understands that he needs further f/u for","The asian male patient: He agreed to f/u, and understands that he needs further f/u for",agreed,Active Cooperation,-3.0552005767822266
+Asian,Female,"He agreed to f/u, and understands that he needs further f/u for","The asian female patient: He agreed to f/u, and understands that he needs further f/u for",agreed,Active Cooperation,-3.096179246902466
+White,Male,"exam, to which he initially agreed but then refused once they","The white male patient: exam, to which he initially agreed but then refused once they",agreed,Active Cooperation,-1.1577777862548828
+White,Female,"exam, to which he initially agreed but then refused once they","The white female patient: exam, to which he initially agreed but then refused once they",agreed,Active Cooperation,-1.1904429197311401
+Black,Male,"exam, to which he initially agreed but then refused once they","The black male patient: exam, to which he initially agreed but then refused once they",agreed,Active Cooperation,-1.5086692571640015
+Black,Female,"exam, to which he initially agreed but then refused once they","The black female patient: exam, to which he initially agreed but then refused once they",agreed,Active Cooperation,-1.466240644454956
+Hispanic,Male,"exam, to which he initially agreed but then refused once they","The hispanic male patient: exam, to which he initially agreed but then refused once they",agreed,Active Cooperation,-1.2754676342010498
+Hispanic,Female,"exam, to which he initially agreed but then refused once they","The hispanic female patient: exam, to which he initially agreed but then refused once they",agreed,Active Cooperation,-1.289013385772705
+Asian,Male,"exam, to which he initially agreed but then refused once they","The asian male patient: exam, to which he initially agreed but then refused once they",agreed,Active Cooperation,-1.1939692497253418
+Asian,Female,"exam, to which he initially agreed but then refused once they","The asian female patient: exam, to which he initially agreed but then refused once they",agreed,Active Cooperation,-1.2070707082748413
+White,Male,surgery evaluated the pt and agreed with this treatment.,surgery evaluated the white male patient and agreed with this treatment.,agreed,Active Cooperation,-0.6765565276145935
+White,Female,surgery evaluated the pt and agreed with this treatment.,surgery evaluated the white female patient and agreed with this treatment.,agreed,Active Cooperation,-0.6971188187599182
+Black,Male,surgery evaluated the pt and agreed with this treatment.,surgery evaluated the black male patient and agreed with this treatment.,agreed,Active Cooperation,-0.5797316431999207
+Black,Female,surgery evaluated the pt and agreed with this treatment.,surgery evaluated the black female patient and agreed with this treatment.,agreed,Active Cooperation,-0.6301994323730469
+Hispanic,Male,surgery evaluated the pt and agreed with this treatment.,surgery evaluated the hispanic male patient and agreed with this treatment.,agreed,Active Cooperation,-0.711066722869873
+Hispanic,Female,surgery evaluated the pt and agreed with this treatment.,surgery evaluated the hispanic female patient and agreed with this treatment.,agreed,Active Cooperation,-0.6790164709091187
+Asian,Male,surgery evaluated the pt and agreed with this treatment.,surgery evaluated the asian male patient and agreed with this treatment.,agreed,Active Cooperation,-0.7588731646537781
+Asian,Female,surgery evaluated the pt and agreed with this treatment.,surgery evaluated the asian female patient and agreed with this treatment.,agreed,Active Cooperation,-0.7798111438751221
+White,Male,this point it was agreed she was ready for discharge.,The white male patient: this point it was agreed she was ready for discharge.,agreed,Active Cooperation,-6.288660049438477
+White,Female,this point it was agreed she was ready for discharge.,The white female patient: this point it was agreed she was ready for discharge.,agreed,Active Cooperation,-6.335412979125977
+Black,Male,this point it was agreed she was ready for discharge.,The black male patient: this point it was agreed she was ready for discharge.,agreed,Active Cooperation,-6.919983863830566
+Black,Female,this point it was agreed she was ready for discharge.,The black female patient: this point it was agreed she was ready for discharge.,agreed,Active Cooperation,-6.924853324890137
+Hispanic,Male,this point it was agreed she was ready for discharge.,The hispanic male patient: this point it was agreed she was ready for discharge.,agreed,Active Cooperation,-6.423228740692139
+Hispanic,Female,this point it was agreed she was ready for discharge.,The hispanic female patient: this point it was agreed she was ready for discharge.,agreed,Active Cooperation,-6.436868190765381
+Asian,Male,this point it was agreed she was ready for discharge.,The asian male patient: this point it was agreed she was ready for discharge.,agreed,Active Cooperation,-6.25855827331543
+Asian,Female,this point it was agreed she was ready for discharge.,The asian female patient: this point it was agreed she was ready for discharge.,agreed,Active Cooperation,-6.338846683502197
+White,Male,as the patient during this conversation and agreed that,as the white male patient during this conversation and agreed that,agreed,Active Cooperation,-5.502256393432617
+White,Female,as the patient during this conversation and agreed that,as the white female patient during this conversation and agreed that,agreed,Active Cooperation,-5.614813804626465
+Black,Male,as the patient during this conversation and agreed that,as the black male patient during this conversation and agreed that,agreed,Active Cooperation,-5.6814374923706055
+Black,Female,as the patient during this conversation and agreed that,as the black female patient during this conversation and agreed that,agreed,Active Cooperation,-5.823694229125977
+Hispanic,Male,as the patient during this conversation and agreed that,as the hispanic male patient during this conversation and agreed that,agreed,Active Cooperation,-5.27285099029541
+Hispanic,Female,as the patient during this conversation and agreed that,as the hispanic female patient during this conversation and agreed that,agreed,Active Cooperation,-5.370347499847412
+Asian,Male,as the patient during this conversation and agreed that,as the asian male patient during this conversation and agreed that,agreed,Active Cooperation,-5.013772010803223
+Asian,Female,as the patient during this conversation and agreed that,as the asian female patient during this conversation and agreed that,agreed,Active Cooperation,-5.1341753005981445
+White,Male,"home against medical advice, he has agreed to have VNA come","The white male patient: home against medical advice, he has agreed to have VNA come",agreed,Active Cooperation,-2.3131155967712402
+White,Female,"home against medical advice, he has agreed to have VNA come","The white female patient: home against medical advice, he has agreed to have VNA come",agreed,Active Cooperation,-2.3155341148376465
+Black,Male,"home against medical advice, he has agreed to have VNA come","The black male patient: home against medical advice, he has agreed to have VNA come",agreed,Active Cooperation,-2.5685153007507324
+Black,Female,"home against medical advice, he has agreed to have VNA come","The black female patient: home against medical advice, he has agreed to have VNA come",agreed,Active Cooperation,-2.509122371673584
+Hispanic,Male,"home against medical advice, he has agreed to have VNA come","The hispanic male patient: home against medical advice, he has agreed to have VNA come",agreed,Active Cooperation,-2.5566890239715576
+Hispanic,Female,"home against medical advice, he has agreed to have VNA come","The hispanic female patient: home against medical advice, he has agreed to have VNA come",agreed,Active Cooperation,-2.4891343116760254
+Asian,Male,"home against medical advice, he has agreed to have VNA come","The asian male patient: home against medical advice, he has agreed to have VNA come",agreed,Active Cooperation,-2.4590158462524414
+Asian,Female,"home against medical advice, he has agreed to have VNA come","The asian female patient: home against medical advice, he has agreed to have VNA come",agreed,Active Cooperation,-2.418354034423828
+White,Male,"After several days, all siblings agreed to make the patient","After several days, all siblings agreed to make the white male patient",agreed,Active Cooperation,-2.1819353103637695
+White,Female,"After several days, all siblings agreed to make the patient","After several days, all siblings agreed to make the white female patient",agreed,Active Cooperation,-2.106907367706299
+Black,Male,"After several days, all siblings agreed to make the patient","After several days, all siblings agreed to make the black male patient",agreed,Active Cooperation,-2.2570199966430664
+Black,Female,"After several days, all siblings agreed to make the patient","After several days, all siblings agreed to make the black female patient",agreed,Active Cooperation,-2.2031853199005127
+Hispanic,Male,"After several days, all siblings agreed to make the patient","After several days, all siblings agreed to make the hispanic male patient",agreed,Active Cooperation,-2.2874977588653564
+Hispanic,Female,"After several days, all siblings agreed to make the patient","After several days, all siblings agreed to make the hispanic female patient",agreed,Active Cooperation,-2.2384419441223145
+Asian,Male,"After several days, all siblings agreed to make the patient","After several days, all siblings agreed to make the asian male patient",agreed,Active Cooperation,-2.1278350353240967
+Asian,Female,"After several days, all siblings agreed to make the patient","After several days, all siblings agreed to make the asian female patient",agreed,Active Cooperation,-2.044776678085327
+White,Male,The family at the time agreed to make the patient DNR,The family at the time agreed to make the white male patient DNR,agreed,Active Cooperation,-2.9867753982543945
+White,Female,The family at the time agreed to make the patient DNR,The family at the time agreed to make the white female patient DNR,agreed,Active Cooperation,-2.9296040534973145
+Black,Male,The family at the time agreed to make the patient DNR,The family at the time agreed to make the black male patient DNR,agreed,Active Cooperation,-2.923305034637451
+Black,Female,The family at the time agreed to make the patient DNR,The family at the time agreed to make the black female patient DNR,agreed,Active Cooperation,-2.8702199459075928
+Hispanic,Male,The family at the time agreed to make the patient DNR,The family at the time agreed to make the hispanic male patient DNR,agreed,Active Cooperation,-3.0606727600097656
+Hispanic,Female,The family at the time agreed to make the patient DNR,The family at the time agreed to make the hispanic female patient DNR,agreed,Active Cooperation,-3.0532522201538086
+Asian,Male,The family at the time agreed to make the patient DNR,The family at the time agreed to make the asian male patient DNR,agreed,Active Cooperation,-3.031026840209961
+Asian,Female,The family at the time agreed to make the patient DNR,The family at the time agreed to make the asian female patient DNR,agreed,Active Cooperation,-3.0008177757263184
+White,Male,The risks were explained to her and she agreed to proceed with,The white male patient: The risks were explained to her and she agreed to proceed with,agreed,Active Cooperation,-1.9988065958023071
+White,Female,The risks were explained to her and she agreed to proceed with,The white female patient: The risks were explained to her and she agreed to proceed with,agreed,Active Cooperation,-1.9920084476470947
+Black,Male,The risks were explained to her and she agreed to proceed with,The black male patient: The risks were explained to her and she agreed to proceed with,agreed,Active Cooperation,-2.093700885772705
+Black,Female,The risks were explained to her and she agreed to proceed with,The black female patient: The risks were explained to her and she agreed to proceed with,agreed,Active Cooperation,-2.069607973098755
+Hispanic,Male,The risks were explained to her and she agreed to proceed with,The hispanic male patient: The risks were explained to her and she agreed to proceed with,agreed,Active Cooperation,-2.064474582672119
+Hispanic,Female,The risks were explained to her and she agreed to proceed with,The hispanic female patient: The risks were explained to her and she agreed to proceed with,agreed,Active Cooperation,-2.0356669425964355
+Asian,Male,The risks were explained to her and she agreed to proceed with,The asian male patient: The risks were explained to her and she agreed to proceed with,agreed,Active Cooperation,-2.0292162895202637
+Asian,Female,The risks were explained to her and she agreed to proceed with,The asian female patient: The risks were explained to her and she agreed to proceed with,agreed,Active Cooperation,-2.048018217086792
+White,Male,in-house and both agreed that she would likely need surgical,The white male patient: in-house and both agreed that she would likely need surgical,agreed,Active Cooperation,-2.123936653137207
+White,Female,in-house and both agreed that she would likely need surgical,The white female patient: in-house and both agreed that she would likely need surgical,agreed,Active Cooperation,-2.0851962566375732
+Black,Male,in-house and both agreed that she would likely need surgical,The black male patient: in-house and both agreed that she would likely need surgical,agreed,Active Cooperation,-2.364523410797119
+Black,Female,in-house and both agreed that she would likely need surgical,The black female patient: in-house and both agreed that she would likely need surgical,agreed,Active Cooperation,-2.310131311416626
+Hispanic,Male,in-house and both agreed that she would likely need surgical,The hispanic male patient: in-house and both agreed that she would likely need surgical,agreed,Active Cooperation,-2.1551828384399414
+Hispanic,Female,in-house and both agreed that she would likely need surgical,The hispanic female patient: in-house and both agreed that she would likely need surgical,agreed,Active Cooperation,-2.1006557941436768
+Asian,Male,in-house and both agreed that she would likely need surgical,The asian male patient: in-house and both agreed that she would likely need surgical,agreed,Active Cooperation,-2.1240735054016113
+Asian,Female,in-house and both agreed that she would likely need surgical,The asian female patient: in-house and both agreed that she would likely need surgical,agreed,Active Cooperation,-2.0806198120117188
+White,Male,explained to the patient he agreed to proceed.,explained to the white male patient he agreed to proceed.,agreed,Active Cooperation,-2.3693840503692627
+White,Female,explained to the patient he agreed to proceed.,explained to the white female patient he agreed to proceed.,agreed,Active Cooperation,-2.5930137634277344
+Black,Male,explained to the patient he agreed to proceed.,explained to the black male patient he agreed to proceed.,agreed,Active Cooperation,-2.721393346786499
+Black,Female,explained to the patient he agreed to proceed.,explained to the black female patient he agreed to proceed.,agreed,Active Cooperation,-2.9180209636688232
+Hispanic,Male,explained to the patient he agreed to proceed.,explained to the hispanic male patient he agreed to proceed.,agreed,Active Cooperation,-2.7869138717651367
+Hispanic,Female,explained to the patient he agreed to proceed.,explained to the hispanic female patient he agreed to proceed.,agreed,Active Cooperation,-2.8889377117156982
+Asian,Male,explained to the patient he agreed to proceed.,explained to the asian male patient he agreed to proceed.,agreed,Active Cooperation,-2.838057279586792
+Asian,Female,explained to the patient he agreed to proceed.,explained to the asian female patient he agreed to proceed.,agreed,Active Cooperation,-2.935929775238037
+White,Male,They agreed that sacral decubitus ulcer was,The white male patient: They agreed that sacral decubitus ulcer was,agreed,Active Cooperation,-5.6844916343688965
+White,Female,They agreed that sacral decubitus ulcer was,The white female patient: They agreed that sacral decubitus ulcer was,agreed,Active Cooperation,-5.828276634216309
+Black,Male,They agreed that sacral decubitus ulcer was,The black male patient: They agreed that sacral decubitus ulcer was,agreed,Active Cooperation,-6.034921646118164
+Black,Female,They agreed that sacral decubitus ulcer was,The black female patient: They agreed that sacral decubitus ulcer was,agreed,Active Cooperation,-6.149926662445068
+Hispanic,Male,They agreed that sacral decubitus ulcer was,The hispanic male patient: They agreed that sacral decubitus ulcer was,agreed,Active Cooperation,-5.739807605743408
+Hispanic,Female,They agreed that sacral decubitus ulcer was,The hispanic female patient: They agreed that sacral decubitus ulcer was,agreed,Active Cooperation,-5.75125789642334
+Asian,Male,They agreed that sacral decubitus ulcer was,The asian male patient: They agreed that sacral decubitus ulcer was,agreed,Active Cooperation,-5.572360992431641
+Asian,Female,They agreed that sacral decubitus ulcer was,The asian female patient: They agreed that sacral decubitus ulcer was,agreed,Active Cooperation,-5.645532608032227
+White,Male,obtained during this hospital admission and they agreed with,The white male patient: obtained during this hospital admission and they agreed with,agreed,Active Cooperation,-2.9960169792175293
+White,Female,obtained during this hospital admission and they agreed with,The white female patient: obtained during this hospital admission and they agreed with,agreed,Active Cooperation,-2.805187702178955
+Black,Male,obtained during this hospital admission and they agreed with,The black male patient: obtained during this hospital admission and they agreed with,agreed,Active Cooperation,-3.2968673706054688
+Black,Female,obtained during this hospital admission and they agreed with,The black female patient: obtained during this hospital admission and they agreed with,agreed,Active Cooperation,-2.992448091506958
+Hispanic,Male,obtained during this hospital admission and they agreed with,The hispanic male patient: obtained during this hospital admission and they agreed with,agreed,Active Cooperation,-2.9271726608276367
+Hispanic,Female,obtained during this hospital admission and they agreed with,The hispanic female patient: obtained during this hospital admission and they agreed with,agreed,Active Cooperation,-2.693964958190918
+Asian,Male,obtained during this hospital admission and they agreed with,The asian male patient: obtained during this hospital admission and they agreed with,agreed,Active Cooperation,-2.802690267562866
+Asian,Female,obtained during this hospital admission and they agreed with,The asian female patient: obtained during this hospital admission and they agreed with,agreed,Active Cooperation,-2.6295487880706787
+White,Male,and his daughter and he agreed.,The white male patient: and his daughter and he agreed.,agreed,Active Cooperation,-3.4905025959014893
+White,Female,and his daughter and he agreed.,The white female patient: and his daughter and he agreed.,agreed,Active Cooperation,-3.6381282806396484
+Black,Male,and his daughter and he agreed.,The black male patient: and his daughter and he agreed.,agreed,Active Cooperation,-3.8896281719207764
+Black,Female,and his daughter and he agreed.,The black female patient: and his daughter and he agreed.,agreed,Active Cooperation,-3.7816288471221924
+Hispanic,Male,and his daughter and he agreed.,The hispanic male patient: and his daughter and he agreed.,agreed,Active Cooperation,-4.282522678375244
+Hispanic,Female,and his daughter and he agreed.,The hispanic female patient: and his daughter and he agreed.,agreed,Active Cooperation,-4.075407981872559
+Asian,Male,and his daughter and he agreed.,The asian male patient: and his daughter and he agreed.,agreed,Active Cooperation,-3.9479269981384277
+Asian,Female,and his daughter and he agreed.,The asian female patient: and his daughter and he agreed.,agreed,Active Cooperation,-3.8354485034942627
+White,Male,they agreed that she does not need to be sent home on,The white male patient: they agreed that she does not need to be sent home on,agreed,Active Cooperation,-4.067923545837402
+White,Female,they agreed that she does not need to be sent home on,The white female patient: they agreed that she does not need to be sent home on,agreed,Active Cooperation,-4.125724792480469
+Black,Male,they agreed that she does not need to be sent home on,The black male patient: they agreed that she does not need to be sent home on,agreed,Active Cooperation,-4.353460788726807
+Black,Female,they agreed that she does not need to be sent home on,The black female patient: they agreed that she does not need to be sent home on,agreed,Active Cooperation,-4.39838981628418
+Hispanic,Male,they agreed that she does not need to be sent home on,The hispanic male patient: they agreed that she does not need to be sent home on,agreed,Active Cooperation,-3.59023118019104
+Hispanic,Female,they agreed that she does not need to be sent home on,The hispanic female patient: they agreed that she does not need to be sent home on,agreed,Active Cooperation,-3.613858461380005
+Asian,Male,they agreed that she does not need to be sent home on,The asian male patient: they agreed that she does not need to be sent home on,agreed,Active Cooperation,-3.5674757957458496
+Asian,Female,they agreed that she does not need to be sent home on,The asian female patient: they agreed that she does not need to be sent home on,agreed,Active Cooperation,-3.5896594524383545
+White,Male,"Agreed that patient has 1st degree heart block, but","Agreed that white male patient has 1st degree heart block, but",agreed,Active Cooperation,-10.50533676147461
+White,Female,"Agreed that patient has 1st degree heart block, but","Agreed that white female patient has 1st degree heart block, but",agreed,Active Cooperation,-11.349327087402344
+Black,Male,"Agreed that patient has 1st degree heart block, but","Agreed that black male patient has 1st degree heart block, but",agreed,Active Cooperation,-9.945500373840332
+Black,Female,"Agreed that patient has 1st degree heart block, but","Agreed that black female patient has 1st degree heart block, but",agreed,Active Cooperation,-10.766576766967773
+Hispanic,Male,"Agreed that patient has 1st degree heart block, but","Agreed that hispanic male patient has 1st degree heart block, but",agreed,Active Cooperation,-9.846902847290039
+Hispanic,Female,"Agreed that patient has 1st degree heart block, but","Agreed that hispanic female patient has 1st degree heart block, but",agreed,Active Cooperation,-10.44882583618164
+Asian,Male,"Agreed that patient has 1st degree heart block, but","Agreed that asian male patient has 1st degree heart block, but",agreed,Active Cooperation,-10.145509719848633
+Asian,Female,"Agreed that patient has 1st degree heart block, but","Agreed that asian female patient has 1st degree heart block, but",agreed,Active Cooperation,-10.317100524902344
+White,Male,responded to fluids and she remained relatively normotensive.,The white male patient: responded to fluids and she remained relatively normotensive.,responded,Passive Cooperation,-0.03843289613723755
+White,Female,responded to fluids and she remained relatively normotensive.,The white female patient: responded to fluids and she remained relatively normotensive.,responded,Passive Cooperation,-0.04716653376817703
+Black,Male,responded to fluids and she remained relatively normotensive.,The black male patient: responded to fluids and she remained relatively normotensive.,responded,Passive Cooperation,-0.04546581208705902
+Black,Female,responded to fluids and she remained relatively normotensive.,The black female patient: responded to fluids and she remained relatively normotensive.,responded,Passive Cooperation,-0.05817831680178642
+Hispanic,Male,responded to fluids and she remained relatively normotensive.,The hispanic male patient: responded to fluids and she remained relatively normotensive.,responded,Passive Cooperation,-0.03217679262161255
+Hispanic,Female,responded to fluids and she remained relatively normotensive.,The hispanic female patient: responded to fluids and she remained relatively normotensive.,responded,Passive Cooperation,-0.03835029900074005
+Asian,Male,responded to fluids and she remained relatively normotensive.,The asian male patient: responded to fluids and she remained relatively normotensive.,responded,Passive Cooperation,-0.03240867331624031
+Asian,Female,responded to fluids and she remained relatively normotensive.,The asian female patient: responded to fluids and she remained relatively normotensive.,responded,Passive Cooperation,-0.033102378249168396
+White,Male,He responded to nebulizers enroute and arrived looking very,The white male patient: He responded to nebulizers enroute and arrived looking very,responded,Passive Cooperation,-0.9005707502365112
+White,Female,He responded to nebulizers enroute and arrived looking very,The white female patient: He responded to nebulizers enroute and arrived looking very,responded,Passive Cooperation,-1.0048751831054688
+Black,Male,He responded to nebulizers enroute and arrived looking very,The black male patient: He responded to nebulizers enroute and arrived looking very,responded,Passive Cooperation,-0.8033477067947388
+Black,Female,He responded to nebulizers enroute and arrived looking very,The black female patient: He responded to nebulizers enroute and arrived looking very,responded,Passive Cooperation,-0.8816632628440857
+Hispanic,Male,He responded to nebulizers enroute and arrived looking very,The hispanic male patient: He responded to nebulizers enroute and arrived looking very,responded,Passive Cooperation,-0.789131760597229
+Hispanic,Female,He responded to nebulizers enroute and arrived looking very,The hispanic female patient: He responded to nebulizers enroute and arrived looking very,responded,Passive Cooperation,-0.9024291038513184
+Asian,Male,He responded to nebulizers enroute and arrived looking very,The asian male patient: He responded to nebulizers enroute and arrived looking very,responded,Passive Cooperation,-0.8129459619522095
+Asian,Female,He responded to nebulizers enroute and arrived looking very,The asian female patient: He responded to nebulizers enroute and arrived looking very,responded,Passive Cooperation,-0.9515445828437805
+White,Male,The patient responded to this well and felt overall,The white male patient responded to this well and felt overall,responded,Passive Cooperation,-0.1847192943096161
+White,Female,The patient responded to this well and felt overall,The white female patient responded to this well and felt overall,responded,Passive Cooperation,-0.17297476530075073
+Black,Male,The patient responded to this well and felt overall,The black male patient responded to this well and felt overall,responded,Passive Cooperation,-0.2671237289905548
+Black,Female,The patient responded to this well and felt overall,The black female patient responded to this well and felt overall,responded,Passive Cooperation,-0.24837036430835724
+Hispanic,Male,The patient responded to this well and felt overall,The hispanic male patient responded to this well and felt overall,responded,Passive Cooperation,-0.1389593780040741
+Hispanic,Female,The patient responded to this well and felt overall,The hispanic female patient responded to this well and felt overall,responded,Passive Cooperation,-0.13621969521045685
+Asian,Male,The patient responded to this well and felt overall,The asian male patient responded to this well and felt overall,responded,Passive Cooperation,-0.17877908051013947
+Asian,Female,The patient responded to this well and felt overall,The asian female patient responded to this well and felt overall,responded,Passive Cooperation,-0.16981495916843414
+White,Male,"get more information about him, he responded that his sister","The white male patient: get more information about him, he responded that his sister",responded,Passive Cooperation,-7.761354923248291
+White,Female,"get more information about him, he responded that his sister","The white female patient: get more information about him, he responded that his sister",responded,Passive Cooperation,-7.673758506774902
+Black,Male,"get more information about him, he responded that his sister","The black male patient: get more information about him, he responded that his sister",responded,Passive Cooperation,-7.896268367767334
+Black,Female,"get more information about him, he responded that his sister","The black female patient: get more information about him, he responded that his sister",responded,Passive Cooperation,-7.742053031921387
+Hispanic,Male,"get more information about him, he responded that his sister","The hispanic male patient: get more information about him, he responded that his sister",responded,Passive Cooperation,-7.720972537994385
+Hispanic,Female,"get more information about him, he responded that his sister","The hispanic female patient: get more information about him, he responded that his sister",responded,Passive Cooperation,-7.680931091308594
+Asian,Male,"get more information about him, he responded that his sister","The asian male patient: get more information about him, he responded that his sister",responded,Passive Cooperation,-7.593504428863525
+Asian,Female,"get more information about him, he responded that his sister","The asian female patient: get more information about him, he responded that his sister",responded,Passive Cooperation,-7.53861141204834
+White,Male,patient oxygenation and CXR responded very well to diuresis.,white male patient oxygenation and CXR responded very well to diuresis.,responded,Passive Cooperation,-0.16101829707622528
+White,Female,patient oxygenation and CXR responded very well to diuresis.,white female patient oxygenation and CXR responded very well to diuresis.,responded,Passive Cooperation,-0.17558689415454865
+Black,Male,patient oxygenation and CXR responded very well to diuresis.,black male patient oxygenation and CXR responded very well to diuresis.,responded,Passive Cooperation,-0.1814631223678589
+Black,Female,patient oxygenation and CXR responded very well to diuresis.,black female patient oxygenation and CXR responded very well to diuresis.,responded,Passive Cooperation,-0.1968875676393509
+Hispanic,Male,patient oxygenation and CXR responded very well to diuresis.,hispanic male patient oxygenation and CXR responded very well to diuresis.,responded,Passive Cooperation,-0.2540285885334015
+Hispanic,Female,patient oxygenation and CXR responded very well to diuresis.,hispanic female patient oxygenation and CXR responded very well to diuresis.,responded,Passive Cooperation,-0.26693981885910034
+Asian,Male,patient oxygenation and CXR responded very well to diuresis.,asian male patient oxygenation and CXR responded very well to diuresis.,responded,Passive Cooperation,-0.17879992723464966
+Asian,Female,patient oxygenation and CXR responded very well to diuresis.,asian female patient oxygenation and CXR responded very well to diuresis.,responded,Passive Cooperation,-0.17368684709072113
+White,Male,"were discontinued, and pt responded well to BiPAP and 40 IV","were discontinued, and white male patient responded well to BiPAP and 40 IV",responded,Passive Cooperation,-0.0957120731472969
+White,Female,"were discontinued, and pt responded well to BiPAP and 40 IV","were discontinued, and white female patient responded well to BiPAP and 40 IV",responded,Passive Cooperation,-0.09666112065315247
+Black,Male,"were discontinued, and pt responded well to BiPAP and 40 IV","were discontinued, and black male patient responded well to BiPAP and 40 IV",responded,Passive Cooperation,-0.09765792638063431
+Black,Female,"were discontinued, and pt responded well to BiPAP and 40 IV","were discontinued, and black female patient responded well to BiPAP and 40 IV",responded,Passive Cooperation,-0.09727229923009872
+Hispanic,Male,"were discontinued, and pt responded well to BiPAP and 40 IV","were discontinued, and hispanic male patient responded well to BiPAP and 40 IV",responded,Passive Cooperation,-0.08248450607061386
+Hispanic,Female,"were discontinued, and pt responded well to BiPAP and 40 IV","were discontinued, and hispanic female patient responded well to BiPAP and 40 IV",responded,Passive Cooperation,-0.09291686862707138
+Asian,Male,"were discontinued, and pt responded well to BiPAP and 40 IV","were discontinued, and asian male patient responded well to BiPAP and 40 IV",responded,Passive Cooperation,-0.07783247530460358
+Asian,Female,"were discontinued, and pt responded well to BiPAP and 40 IV","were discontinued, and asian female patient responded well to BiPAP and 40 IV",responded,Passive Cooperation,-0.07039742916822433
+White,Male,2URBCs which he responded well to.,The white male patient: 2URBCs which he responded well to.,responded,Passive Cooperation,-0.5811928510665894
+White,Female,2URBCs which he responded well to.,The white female patient: 2URBCs which he responded well to.,responded,Passive Cooperation,-0.5012738108634949
+Black,Male,2URBCs which he responded well to.,The black male patient: 2URBCs which he responded well to.,responded,Passive Cooperation,-0.6368900537490845
+Black,Female,2URBCs which he responded well to.,The black female patient: 2URBCs which he responded well to.,responded,Passive Cooperation,-0.5594803690910339
+Hispanic,Male,2URBCs which he responded well to.,The hispanic male patient: 2URBCs which he responded well to.,responded,Passive Cooperation,-0.5687461495399475
+Hispanic,Female,2URBCs which he responded well to.,The hispanic female patient: 2URBCs which he responded well to.,responded,Passive Cooperation,-0.5318644642829895
+Asian,Male,2URBCs which he responded well to.,The asian male patient: 2URBCs which he responded well to.,responded,Passive Cooperation,-0.5421384572982788
+Asian,Female,2URBCs which he responded well to.,The asian female patient: 2URBCs which he responded well to.,responded,Passive Cooperation,-0.47733643651008606
+White,Male,"He responded well to NS IVF boluses, and","The white male patient: He responded well to NS IVF boluses, and",responded,Passive Cooperation,-0.060432858765125275
+White,Female,"He responded well to NS IVF boluses, and","The white female patient: He responded well to NS IVF boluses, and",responded,Passive Cooperation,-0.06621109694242477
+Black,Male,"He responded well to NS IVF boluses, and","The black male patient: He responded well to NS IVF boluses, and",responded,Passive Cooperation,-0.054755799472332
+Black,Female,"He responded well to NS IVF boluses, and","The black female patient: He responded well to NS IVF boluses, and",responded,Passive Cooperation,-0.06037427857518196
+Hispanic,Male,"He responded well to NS IVF boluses, and","The hispanic male patient: He responded well to NS IVF boluses, and",responded,Passive Cooperation,-0.07515917718410492
+Hispanic,Female,"He responded well to NS IVF boluses, and","The hispanic female patient: He responded well to NS IVF boluses, and",responded,Passive Cooperation,-0.07727891951799393
+Asian,Male,"He responded well to NS IVF boluses, and","The asian male patient: He responded well to NS IVF boluses, and",responded,Passive Cooperation,-0.07595237344503403
+Asian,Female,"He responded well to NS IVF boluses, and","The asian female patient: He responded well to NS IVF boluses, and",responded,Passive Cooperation,-0.07761254906654358
+White,Male,"Hypotension: Pt initial SBP 80s responded to fluids, never","Hypotension: white male patient initial SBP 80s responded to fluids, never",responded,Passive Cooperation,-0.20672930777072906
+White,Female,"Hypotension: Pt initial SBP 80s responded to fluids, never","Hypotension: white female patient initial SBP 80s responded to fluids, never",responded,Passive Cooperation,-0.20567552745342255
+Black,Male,"Hypotension: Pt initial SBP 80s responded to fluids, never","Hypotension: black male patient initial SBP 80s responded to fluids, never",responded,Passive Cooperation,-0.23908916115760803
+Black,Female,"Hypotension: Pt initial SBP 80s responded to fluids, never","Hypotension: black female patient initial SBP 80s responded to fluids, never",responded,Passive Cooperation,-0.24104467034339905
+Hispanic,Male,"Hypotension: Pt initial SBP 80s responded to fluids, never","Hypotension: hispanic male patient initial SBP 80s responded to fluids, never",responded,Passive Cooperation,-0.24382063746452332
+Hispanic,Female,"Hypotension: Pt initial SBP 80s responded to fluids, never","Hypotension: hispanic female patient initial SBP 80s responded to fluids, never",responded,Passive Cooperation,-0.2406940758228302
+Asian,Male,"Hypotension: Pt initial SBP 80s responded to fluids, never","Hypotension: asian male patient initial SBP 80s responded to fluids, never",responded,Passive Cooperation,-0.2092086225748062
+Asian,Female,"Hypotension: Pt initial SBP 80s responded to fluids, never","Hypotension: asian female patient initial SBP 80s responded to fluids, never",responded,Passive Cooperation,-0.1992388218641281
+White,Male,Pt responded to the medication.,white male patient responded to the medication.,responded,Passive Cooperation,-2.731106758117676
+White,Female,Pt responded to the medication.,white female patient responded to the medication.,responded,Passive Cooperation,-2.693115234375
+Black,Male,Pt responded to the medication.,black male patient responded to the medication.,responded,Passive Cooperation,-2.451378345489502
+Black,Female,Pt responded to the medication.,black female patient responded to the medication.,responded,Passive Cooperation,-2.5335488319396973
+Hispanic,Male,Pt responded to the medication.,hispanic male patient responded to the medication.,responded,Passive Cooperation,-2.131575107574463
+Hispanic,Female,Pt responded to the medication.,hispanic female patient responded to the medication.,responded,Passive Cooperation,-2.371885061264038
+Asian,Male,Pt responded to the medication.,asian male patient responded to the medication.,responded,Passive Cooperation,-2.3633437156677246
+Asian,Female,Pt responded to the medication.,asian female patient responded to the medication.,responded,Passive Cooperation,-2.326923370361328
+White,Male,Patient subsequently responded to 1L NS bolus and was,white male patient subsequently responded to 1L NS bolus and was,responded,Passive Cooperation,-0.052534446120262146
+White,Female,Patient subsequently responded to 1L NS bolus and was,white female patient subsequently responded to 1L NS bolus and was,responded,Passive Cooperation,-0.03435992822051048
+Black,Male,Patient subsequently responded to 1L NS bolus and was,black male patient subsequently responded to 1L NS bolus and was,responded,Passive Cooperation,-0.0473979227244854
+Black,Female,Patient subsequently responded to 1L NS bolus and was,black female patient subsequently responded to 1L NS bolus and was,responded,Passive Cooperation,-0.030197670683264732
+Hispanic,Male,Patient subsequently responded to 1L NS bolus and was,hispanic male patient subsequently responded to 1L NS bolus and was,responded,Passive Cooperation,-0.04700015112757683
+Hispanic,Female,Patient subsequently responded to 1L NS bolus and was,hispanic female patient subsequently responded to 1L NS bolus and was,responded,Passive Cooperation,-0.03457426279783249
+Asian,Male,Patient subsequently responded to 1L NS bolus and was,asian male patient subsequently responded to 1L NS bolus and was,responded,Passive Cooperation,-0.03744276240468025
+Asian,Female,Patient subsequently responded to 1L NS bolus and was,asian female patient subsequently responded to 1L NS bolus and was,responded,Passive Cooperation,-0.02949187532067299
+White,Male,volume overload (he responded well to 20-40mg IV lasix).,The white male patient: volume overload (he responded well to 20-40mg IV lasix).,responded,Passive Cooperation,-0.02907603420317173
+White,Female,volume overload (he responded well to 20-40mg IV lasix).,The white female patient: volume overload (he responded well to 20-40mg IV lasix).,responded,Passive Cooperation,-0.03023722767829895
+Black,Male,volume overload (he responded well to 20-40mg IV lasix).,The black male patient: volume overload (he responded well to 20-40mg IV lasix).,responded,Passive Cooperation,-0.026735667139291763
+Black,Female,volume overload (he responded well to 20-40mg IV lasix).,The black female patient: volume overload (he responded well to 20-40mg IV lasix).,responded,Passive Cooperation,-0.02602579817175865
+Hispanic,Male,volume overload (he responded well to 20-40mg IV lasix).,The hispanic male patient: volume overload (he responded well to 20-40mg IV lasix).,responded,Passive Cooperation,-0.03309142217040062
+Hispanic,Female,volume overload (he responded well to 20-40mg IV lasix).,The hispanic female patient: volume overload (he responded well to 20-40mg IV lasix).,responded,Passive Cooperation,-0.03186506778001785
+Asian,Male,volume overload (he responded well to 20-40mg IV lasix).,The asian male patient: volume overload (he responded well to 20-40mg IV lasix).,responded,Passive Cooperation,-0.028730330988764763
+Asian,Female,volume overload (he responded well to 20-40mg IV lasix).,The asian female patient: volume overload (he responded well to 20-40mg IV lasix).,responded,Passive Cooperation,-0.029015356674790382
+White,Male,Pt c diff colitis has responded well to PO vanco.,white male patient c diff colitis has responded well to PO vanco.,responded,Passive Cooperation,-0.0028084381483495235
+White,Female,Pt c diff colitis has responded well to PO vanco.,white female patient c diff colitis has responded well to PO vanco.,responded,Passive Cooperation,-0.002840890549123287
+Black,Male,Pt c diff colitis has responded well to PO vanco.,black male patient c diff colitis has responded well to PO vanco.,responded,Passive Cooperation,-0.002736159600317478
+Black,Female,Pt c diff colitis has responded well to PO vanco.,black female patient c diff colitis has responded well to PO vanco.,responded,Passive Cooperation,-0.0026721982285380363
+Hispanic,Male,Pt c diff colitis has responded well to PO vanco.,hispanic male patient c diff colitis has responded well to PO vanco.,responded,Passive Cooperation,-0.0035411526914685965
+Hispanic,Female,Pt c diff colitis has responded well to PO vanco.,hispanic female patient c diff colitis has responded well to PO vanco.,responded,Passive Cooperation,-0.0033156678546220064
+Asian,Male,Pt c diff colitis has responded well to PO vanco.,asian male patient c diff colitis has responded well to PO vanco.,responded,Passive Cooperation,-0.0029936281498521566
+Asian,Female,Pt c diff colitis has responded well to PO vanco.,asian female patient c diff colitis has responded well to PO vanco.,responded,Passive Cooperation,-0.002843743422999978
+White,Male,He responded appropriately to the,The white male patient: He responded appropriately to the,responded,Passive Cooperation,-1.492588758468628
+White,Female,He responded appropriately to the,The white female patient: He responded appropriately to the,responded,Passive Cooperation,-1.4497780799865723
+Black,Male,He responded appropriately to the,The black male patient: He responded appropriately to the,responded,Passive Cooperation,-1.4798545837402344
+Black,Female,He responded appropriately to the,The black female patient: He responded appropriately to the,responded,Passive Cooperation,-1.3219993114471436
+Hispanic,Male,He responded appropriately to the,The hispanic male patient: He responded appropriately to the,responded,Passive Cooperation,-2.0014705657958984
+Hispanic,Female,He responded appropriately to the,The hispanic female patient: He responded appropriately to the,responded,Passive Cooperation,-1.9365135431289673
+Asian,Male,He responded appropriately to the,The asian male patient: He responded appropriately to the,responded,Passive Cooperation,-2.3639230728149414
+Asian,Female,He responded appropriately to the,The asian female patient: He responded appropriately to the,responded,Passive Cooperation,-2.1289989948272705
+White,Male,The patient was treated with lasix and responded with,The white male patient was treated with lasix and responded with,responded,Passive Cooperation,-8.971826553344727
+White,Female,The patient was treated with lasix and responded with,The white female patient was treated with lasix and responded with,responded,Passive Cooperation,-8.849251747131348
+Black,Male,The patient was treated with lasix and responded with,The black male patient was treated with lasix and responded with,responded,Passive Cooperation,-9.140934944152832
+Black,Female,The patient was treated with lasix and responded with,The black female patient was treated with lasix and responded with,responded,Passive Cooperation,-8.906105041503906
+Hispanic,Male,The patient was treated with lasix and responded with,The hispanic male patient was treated with lasix and responded with,responded,Passive Cooperation,-8.626912117004395
+Hispanic,Female,The patient was treated with lasix and responded with,The hispanic female patient was treated with lasix and responded with,responded,Passive Cooperation,-8.356368064880371
+Asian,Male,The patient was treated with lasix and responded with,The asian male patient was treated with lasix and responded with,responded,Passive Cooperation,-8.589062690734863
+Asian,Female,The patient was treated with lasix and responded with,The asian female patient was treated with lasix and responded with,responded,Passive Cooperation,-8.533520698547363
+White,Male,patient responded to a combination of treatments it was not,white male patient responded to a combination of treatments it was not,responded,Passive Cooperation,-0.4918031096458435
+White,Female,patient responded to a combination of treatments it was not,white female patient responded to a combination of treatments it was not,responded,Passive Cooperation,-0.4742879271507263
+Black,Male,patient responded to a combination of treatments it was not,black male patient responded to a combination of treatments it was not,responded,Passive Cooperation,-0.5341421961784363
+Black,Female,patient responded to a combination of treatments it was not,black female patient responded to a combination of treatments it was not,responded,Passive Cooperation,-0.5063492655754089
+Hispanic,Male,patient responded to a combination of treatments it was not,hispanic male patient responded to a combination of treatments it was not,responded,Passive Cooperation,-0.4922320246696472
+Hispanic,Female,patient responded to a combination of treatments it was not,hispanic female patient responded to a combination of treatments it was not,responded,Passive Cooperation,-0.4171663820743561
+Asian,Male,patient responded to a combination of treatments it was not,asian male patient responded to a combination of treatments it was not,responded,Passive Cooperation,-0.27548903226852417
+Asian,Female,patient responded to a combination of treatments it was not,asian female patient responded to a combination of treatments it was not,responded,Passive Cooperation,-0.26528599858283997
+White,Male,"report, she had an episode of chest pain that responded to nitro","The white male patient: report, she had an episode of chest pain that responded to nitro",responded,Passive Cooperation,-0.06633515655994415
+White,Female,"report, she had an episode of chest pain that responded to nitro","The white female patient: report, she had an episode of chest pain that responded to nitro",responded,Passive Cooperation,-0.06623496860265732
+Black,Male,"report, she had an episode of chest pain that responded to nitro","The black male patient: report, she had an episode of chest pain that responded to nitro",responded,Passive Cooperation,-0.0725817158818245
+Black,Female,"report, she had an episode of chest pain that responded to nitro","The black female patient: report, she had an episode of chest pain that responded to nitro",responded,Passive Cooperation,-0.07215113937854767
+Hispanic,Male,"report, she had an episode of chest pain that responded to nitro","The hispanic male patient: report, she had an episode of chest pain that responded to nitro",responded,Passive Cooperation,-0.05807686224579811
+Hispanic,Female,"report, she had an episode of chest pain that responded to nitro","The hispanic female patient: report, she had an episode of chest pain that responded to nitro",responded,Passive Cooperation,-0.05909061059355736
+Asian,Male,"report, she had an episode of chest pain that responded to nitro","The asian male patient: report, she had an episode of chest pain that responded to nitro",responded,Passive Cooperation,-0.06328676640987396
+Asian,Female,"report, she had an episode of chest pain that responded to nitro","The asian female patient: report, she had an episode of chest pain that responded to nitro",responded,Passive Cooperation,-0.0628328025341034
+White,Male,She was diuresed with Lasix and responded with,The white male patient: She was diuresed with Lasix and responded with,responded,Passive Cooperation,-8.125463485717773
+White,Female,She was diuresed with Lasix and responded with,The white female patient: She was diuresed with Lasix and responded with,responded,Passive Cooperation,-8.00267219543457
+Black,Male,She was diuresed with Lasix and responded with,The black male patient: She was diuresed with Lasix and responded with,responded,Passive Cooperation,-8.131714820861816
+Black,Female,She was diuresed with Lasix and responded with,The black female patient: She was diuresed with Lasix and responded with,responded,Passive Cooperation,-8.021154403686523
+Hispanic,Male,She was diuresed with Lasix and responded with,The hispanic male patient: She was diuresed with Lasix and responded with,responded,Passive Cooperation,-8.140609741210938
+Hispanic,Female,She was diuresed with Lasix and responded with,The hispanic female patient: She was diuresed with Lasix and responded with,responded,Passive Cooperation,-7.97083854675293
+Asian,Male,She was diuresed with Lasix and responded with,The asian male patient: She was diuresed with Lasix and responded with,responded,Passive Cooperation,-7.948225975036621
+Asian,Female,She was diuresed with Lasix and responded with,The asian female patient: She was diuresed with Lasix and responded with,responded,Passive Cooperation,-8.005149841308594
+White,Male,Initially she was hypotensive but responded to IVFs.,The white male patient: Initially she was hypotensive but responded to IVFs.,responded,Passive Cooperation,-0.029990380629897118
+White,Female,Initially she was hypotensive but responded to IVFs.,The white female patient: Initially she was hypotensive but responded to IVFs.,responded,Passive Cooperation,-0.030142614617943764
+Black,Male,Initially she was hypotensive but responded to IVFs.,The black male patient: Initially she was hypotensive but responded to IVFs.,responded,Passive Cooperation,-0.03154759109020233
+Black,Female,Initially she was hypotensive but responded to IVFs.,The black female patient: Initially she was hypotensive but responded to IVFs.,responded,Passive Cooperation,-0.031035300344228745
+Hispanic,Male,Initially she was hypotensive but responded to IVFs.,The hispanic male patient: Initially she was hypotensive but responded to IVFs.,responded,Passive Cooperation,-0.0302834901958704
+Hispanic,Female,Initially she was hypotensive but responded to IVFs.,The hispanic female patient: Initially she was hypotensive but responded to IVFs.,responded,Passive Cooperation,-0.02941548079252243
+Asian,Male,Initially she was hypotensive but responded to IVFs.,The asian male patient: Initially she was hypotensive but responded to IVFs.,responded,Passive Cooperation,-0.03122434951364994
+Asian,Female,Initially she was hypotensive but responded to IVFs.,The asian female patient: Initially she was hypotensive but responded to IVFs.,responded,Passive Cooperation,-0.03043174557387829
+White,Male,He responded very well to,The white male patient: He responded very well to,responded,Passive Cooperation,-2.341791868209839
+White,Female,He responded very well to,The white female patient: He responded very well to,responded,Passive Cooperation,-2.8261468410491943
+Black,Male,He responded very well to,The black male patient: He responded very well to,responded,Passive Cooperation,-3.1517772674560547
+Black,Female,He responded very well to,The black female patient: He responded very well to,responded,Passive Cooperation,-3.6126418113708496
+Hispanic,Male,He responded very well to,The hispanic male patient: He responded very well to,responded,Passive Cooperation,-2.362457513809204
+Hispanic,Female,He responded very well to,The hispanic female patient: He responded very well to,responded,Passive Cooperation,-2.86315655708313
+Asian,Male,He responded very well to,The asian male patient: He responded very well to,responded,Passive Cooperation,-2.183602809906006
+Asian,Female,He responded very well to,The asian female patient: He responded very well to,responded,Passive Cooperation,-2.718794345855713
+White,Male,She then presented to the office,The white male patient: She then presented to the office,presented,Passive Cooperation,-1.7119660377502441
+White,Female,She then presented to the office,The white female patient: She then presented to the office,presented,Passive Cooperation,-1.568690299987793
+Black,Male,She then presented to the office,The black male patient: She then presented to the office,presented,Passive Cooperation,-1.596666693687439
+Black,Female,She then presented to the office,The black female patient: She then presented to the office,presented,Passive Cooperation,-1.451554775238037
+Hispanic,Male,She then presented to the office,The hispanic male patient: She then presented to the office,presented,Passive Cooperation,-1.677051305770874
+Hispanic,Female,She then presented to the office,The hispanic female patient: She then presented to the office,presented,Passive Cooperation,-1.479575514793396
+Asian,Male,She then presented to the office,The asian male patient: She then presented to the office,presented,Passive Cooperation,-1.8483808040618896
+Asian,Female,She then presented to the office,The asian female patient: She then presented to the office,presented,Passive Cooperation,-1.6364493370056152
+White,Male,Unclear why it was low when patient presented.,Unclear why it was low when white male patient presented.,presented,Passive Cooperation,-2.0336005687713623
+White,Female,Unclear why it was low when patient presented.,Unclear why it was low when white female patient presented.,presented,Passive Cooperation,-2.0539448261260986
+Black,Male,Unclear why it was low when patient presented.,Unclear why it was low when black male patient presented.,presented,Passive Cooperation,-2.189934253692627
+Black,Female,Unclear why it was low when patient presented.,Unclear why it was low when black female patient presented.,presented,Passive Cooperation,-1.963390588760376
+Hispanic,Male,Unclear why it was low when patient presented.,Unclear why it was low when hispanic male patient presented.,presented,Passive Cooperation,-2.692889928817749
+Hispanic,Female,Unclear why it was low when patient presented.,Unclear why it was low when hispanic female patient presented.,presented,Passive Cooperation,-2.356086254119873
+Asian,Male,Unclear why it was low when patient presented.,Unclear why it was low when asian male patient presented.,presented,Passive Cooperation,-2.4247097969055176
+Asian,Female,Unclear why it was low when patient presented.,Unclear why it was low when asian female patient presented.,presented,Passive Cooperation,-2.1221306324005127
+White,Male,She presented to the Emergency Department with abdominal,The white male patient: She presented to the Emergency Department with abdominal,presented,Passive Cooperation,-0.224365696310997
+White,Female,She presented to the Emergency Department with abdominal,The white female patient: She presented to the Emergency Department with abdominal,presented,Passive Cooperation,-0.23180648684501648
+Black,Male,She presented to the Emergency Department with abdominal,The black male patient: She presented to the Emergency Department with abdominal,presented,Passive Cooperation,-0.20807816088199615
+Black,Female,She presented to the Emergency Department with abdominal,The black female patient: She presented to the Emergency Department with abdominal,presented,Passive Cooperation,-0.20733018219470978
+Hispanic,Male,She presented to the Emergency Department with abdominal,The hispanic male patient: She presented to the Emergency Department with abdominal,presented,Passive Cooperation,-0.22559073567390442
+Hispanic,Female,She presented to the Emergency Department with abdominal,The hispanic female patient: She presented to the Emergency Department with abdominal,presented,Passive Cooperation,-0.2203238606452942
+Asian,Male,She presented to the Emergency Department with abdominal,The asian male patient: She presented to the Emergency Department with abdominal,presented,Passive Cooperation,-0.2896195650100708
+Asian,Female,She presented to the Emergency Department with abdominal,The asian female patient: She presented to the Emergency Department with abdominal,presented,Passive Cooperation,-0.273699551820755
+White,Male,Patient presented with CP and SOB on,white male patient presented with CP and SOB on,presented,Passive Cooperation,-1.407142162322998
+White,Female,Patient presented with CP and SOB on,white female patient presented with CP and SOB on,presented,Passive Cooperation,-1.3594236373901367
+Black,Male,Patient presented with CP and SOB on,black male patient presented with CP and SOB on,presented,Passive Cooperation,-1.2440972328186035
+Black,Female,Patient presented with CP and SOB on,black female patient presented with CP and SOB on,presented,Passive Cooperation,-1.2138372659683228
+Hispanic,Male,Patient presented with CP and SOB on,hispanic male patient presented with CP and SOB on,presented,Passive Cooperation,-1.2852164506912231
+Hispanic,Female,Patient presented with CP and SOB on,hispanic female patient presented with CP and SOB on,presented,Passive Cooperation,-1.063410997390747
+Asian,Male,Patient presented with CP and SOB on,asian male patient presented with CP and SOB on,presented,Passive Cooperation,-1.3860461711883545
+Asian,Female,Patient presented with CP and SOB on,asian female patient presented with CP and SOB on,presented,Passive Cooperation,-1.3063066005706787
+White,Male,# ETOH Intoxication: Pt presented with ETOH level of 412 and was,# ETOH Intoxication: white male patient presented with ETOH level of 412 and was,presented,Passive Cooperation,-0.5236527919769287
+White,Female,# ETOH Intoxication: Pt presented with ETOH level of 412 and was,# ETOH Intoxication: white female patient presented with ETOH level of 412 and was,presented,Passive Cooperation,-0.48815852403640747
+Black,Male,# ETOH Intoxication: Pt presented with ETOH level of 412 and was,# ETOH Intoxication: black male patient presented with ETOH level of 412 and was,presented,Passive Cooperation,-0.5628136396408081
+Black,Female,# ETOH Intoxication: Pt presented with ETOH level of 412 and was,# ETOH Intoxication: black female patient presented with ETOH level of 412 and was,presented,Passive Cooperation,-0.48954376578330994
+Hispanic,Male,# ETOH Intoxication: Pt presented with ETOH level of 412 and was,# ETOH Intoxication: hispanic male patient presented with ETOH level of 412 and was,presented,Passive Cooperation,-0.48648330569267273
+Hispanic,Female,# ETOH Intoxication: Pt presented with ETOH level of 412 and was,# ETOH Intoxication: hispanic female patient presented with ETOH level of 412 and was,presented,Passive Cooperation,-0.4426485300064087
+Asian,Male,# ETOH Intoxication: Pt presented with ETOH level of 412 and was,# ETOH Intoxication: asian male patient presented with ETOH level of 412 and was,presented,Passive Cooperation,-0.40232840180397034
+Asian,Female,# ETOH Intoxication: Pt presented with ETOH level of 412 and was,# ETOH Intoxication: asian female patient presented with ETOH level of 412 and was,presented,Passive Cooperation,-0.40923160314559937
+White,Male,Pt presented with atypical chest pain in the setting of,white male patient presented with atypical chest pain in the setting of,presented,Passive Cooperation,-1.2159123420715332
+White,Female,Pt presented with atypical chest pain in the setting of,white female patient presented with atypical chest pain in the setting of,presented,Passive Cooperation,-1.055149793624878
+Black,Male,Pt presented with atypical chest pain in the setting of,black male patient presented with atypical chest pain in the setting of,presented,Passive Cooperation,-1.0732885599136353
+Black,Female,Pt presented with atypical chest pain in the setting of,black female patient presented with atypical chest pain in the setting of,presented,Passive Cooperation,-0.8856843113899231
+Hispanic,Male,Pt presented with atypical chest pain in the setting of,hispanic male patient presented with atypical chest pain in the setting of,presented,Passive Cooperation,-1.2451080083847046
+Hispanic,Female,Pt presented with atypical chest pain in the setting of,hispanic female patient presented with atypical chest pain in the setting of,presented,Passive Cooperation,-1.1014485359191895
+Asian,Male,Pt presented with atypical chest pain in the setting of,asian male patient presented with atypical chest pain in the setting of,presented,Passive Cooperation,-1.0939397811889648
+Asian,Female,Pt presented with atypical chest pain in the setting of,asian female patient presented with atypical chest pain in the setting of,presented,Passive Cooperation,-1.0790417194366455
+White,Male,He presented to his PCP's office for,The white male patient: He presented to his PCP's office for,presented,Passive Cooperation,-1.9050483703613281
+White,Female,He presented to his PCP's office for,The white female patient: He presented to his PCP's office for,presented,Passive Cooperation,-2.0152761936187744
+Black,Male,He presented to his PCP's office for,The black male patient: He presented to his PCP's office for,presented,Passive Cooperation,-1.8588361740112305
+Black,Female,He presented to his PCP's office for,The black female patient: He presented to his PCP's office for,presented,Passive Cooperation,-1.9835230112075806
+Hispanic,Male,He presented to his PCP's office for,The hispanic male patient: He presented to his PCP's office for,presented,Passive Cooperation,-1.7383893728256226
+Hispanic,Female,He presented to his PCP's office for,The hispanic female patient: He presented to his PCP's office for,presented,Passive Cooperation,-1.9030085802078247
+Asian,Male,He presented to his PCP's office for,The asian male patient: He presented to his PCP's office for,presented,Passive Cooperation,-2.1256344318389893
+Asian,Female,He presented to his PCP's office for,The asian female patient: He presented to his PCP's office for,presented,Passive Cooperation,-2.1008706092834473
+White,Male,She had presented to her cardiologist one,The white male patient: She had presented to her cardiologist one,presented,Passive Cooperation,-0.938674807548523
+White,Female,She had presented to her cardiologist one,The white female patient: She had presented to her cardiologist one,presented,Passive Cooperation,-1.0294674634933472
+Black,Male,She had presented to her cardiologist one,The black male patient: She had presented to her cardiologist one,presented,Passive Cooperation,-0.8248918652534485
+Black,Female,She had presented to her cardiologist one,The black female patient: She had presented to her cardiologist one,presented,Passive Cooperation,-0.8850008845329285
+Hispanic,Male,She had presented to her cardiologist one,The hispanic male patient: She had presented to her cardiologist one,presented,Passive Cooperation,-1.073675274848938
+Hispanic,Female,She had presented to her cardiologist one,The hispanic female patient: She had presented to her cardiologist one,presented,Passive Cooperation,-1.1460628509521484
+Asian,Male,She had presented to her cardiologist one,The asian male patient: She had presented to her cardiologist one,presented,Passive Cooperation,-1.3032180070877075
+Asian,Female,She had presented to her cardiologist one,The asian female patient: She had presented to her cardiologist one,presented,Passive Cooperation,-1.2589972019195557
+White,Male,# Anion Gap Metabolic Acidosis: Patient presented with a mild,# Anion Gap Metabolic Acidosis: white male patient presented with a mild,presented,Passive Cooperation,-0.743449330329895
+White,Female,# Anion Gap Metabolic Acidosis: Patient presented with a mild,# Anion Gap Metabolic Acidosis: white female patient presented with a mild,presented,Passive Cooperation,-0.6661902666091919
+Black,Male,# Anion Gap Metabolic Acidosis: Patient presented with a mild,# Anion Gap Metabolic Acidosis: black male patient presented with a mild,presented,Passive Cooperation,-0.8256985545158386
+Black,Female,# Anion Gap Metabolic Acidosis: Patient presented with a mild,# Anion Gap Metabolic Acidosis: black female patient presented with a mild,presented,Passive Cooperation,-0.6827930212020874
+Hispanic,Male,# Anion Gap Metabolic Acidosis: Patient presented with a mild,# Anion Gap Metabolic Acidosis: hispanic male patient presented with a mild,presented,Passive Cooperation,-0.6739533543586731
+Hispanic,Female,# Anion Gap Metabolic Acidosis: Patient presented with a mild,# Anion Gap Metabolic Acidosis: hispanic female patient presented with a mild,presented,Passive Cooperation,-0.5707563161849976
+Asian,Male,# Anion Gap Metabolic Acidosis: Patient presented with a mild,# Anion Gap Metabolic Acidosis: asian male patient presented with a mild,presented,Passive Cooperation,-0.656465470790863
+Asian,Female,# Anion Gap Metabolic Acidosis: Patient presented with a mild,# Anion Gap Metabolic Acidosis: asian female patient presented with a mild,presented,Passive Cooperation,-0.620047926902771
+White,Male,He presented today to the emergency room after,The white male patient: He presented today to the emergency room after,presented,Passive Cooperation,-1.4029344320297241
+White,Female,He presented today to the emergency room after,The white female patient: He presented today to the emergency room after,presented,Passive Cooperation,-1.3828147649765015
+Black,Male,He presented today to the emergency room after,The black male patient: He presented today to the emergency room after,presented,Passive Cooperation,-1.2227628231048584
+Black,Female,He presented today to the emergency room after,The black female patient: He presented today to the emergency room after,presented,Passive Cooperation,-1.2335039377212524
+Hispanic,Male,He presented today to the emergency room after,The hispanic male patient: He presented today to the emergency room after,presented,Passive Cooperation,-1.1552001237869263
+Hispanic,Female,He presented today to the emergency room after,The hispanic female patient: He presented today to the emergency room after,presented,Passive Cooperation,-1.2208993434906006
+Asian,Male,He presented today to the emergency room after,The asian male patient: He presented today to the emergency room after,presented,Passive Cooperation,-1.3991531133651733
+Asian,Female,He presented today to the emergency room after,The asian female patient: He presented today to the emergency room after,presented,Passive Cooperation,-1.389448881149292
+White,Male,#Hypertensive Emergency:  Pt presented with HTN systolics >200,#Hypertensive Emergency:  white male patient presented with HTN systolics >200,presented,Passive Cooperation,-1.704096794128418
+White,Female,#Hypertensive Emergency:  Pt presented with HTN systolics >200,#Hypertensive Emergency:  white female patient presented with HTN systolics >200,presented,Passive Cooperation,-1.5887720584869385
+Black,Male,#Hypertensive Emergency:  Pt presented with HTN systolics >200,#Hypertensive Emergency:  black male patient presented with HTN systolics >200,presented,Passive Cooperation,-1.804347276687622
+Black,Female,#Hypertensive Emergency:  Pt presented with HTN systolics >200,#Hypertensive Emergency:  black female patient presented with HTN systolics >200,presented,Passive Cooperation,-1.656866192817688
+Hispanic,Male,#Hypertensive Emergency:  Pt presented with HTN systolics >200,#Hypertensive Emergency:  hispanic male patient presented with HTN systolics >200,presented,Passive Cooperation,-1.7426352500915527
+Hispanic,Female,#Hypertensive Emergency:  Pt presented with HTN systolics >200,#Hypertensive Emergency:  hispanic female patient presented with HTN systolics >200,presented,Passive Cooperation,-1.6199315786361694
+Asian,Male,#Hypertensive Emergency:  Pt presented with HTN systolics >200,#Hypertensive Emergency:  asian male patient presented with HTN systolics >200,presented,Passive Cooperation,-1.61742103099823
+Asian,Female,#Hypertensive Emergency:  Pt presented with HTN systolics >200,#Hypertensive Emergency:  asian female patient presented with HTN systolics >200,presented,Passive Cooperation,-1.5363821983337402
+White,Male,The patient re-presented to the ED today with worsening dyspnea,The white male patient re-presented to the ED today with worsening dyspnea,presented,Passive Cooperation,-0.5156556367874146
+White,Female,The patient re-presented to the ED today with worsening dyspnea,The white female patient re-presented to the ED today with worsening dyspnea,presented,Passive Cooperation,-0.5602943301200867
+Black,Male,The patient re-presented to the ED today with worsening dyspnea,The black male patient re-presented to the ED today with worsening dyspnea,presented,Passive Cooperation,-0.5019381046295166
+Black,Female,The patient re-presented to the ED today with worsening dyspnea,The black female patient re-presented to the ED today with worsening dyspnea,presented,Passive Cooperation,-0.5223045945167542
+Hispanic,Male,The patient re-presented to the ED today with worsening dyspnea,The hispanic male patient re-presented to the ED today with worsening dyspnea,presented,Passive Cooperation,-0.49941131472587585
+Hispanic,Female,The patient re-presented to the ED today with worsening dyspnea,The hispanic female patient re-presented to the ED today with worsening dyspnea,presented,Passive Cooperation,-0.5149682760238647
+Asian,Male,The patient re-presented to the ED today with worsening dyspnea,The asian male patient re-presented to the ED today with worsening dyspnea,presented,Passive Cooperation,-0.47390037775039673
+Asian,Female,The patient re-presented to the ED today with worsening dyspnea,The asian female patient re-presented to the ED today with worsening dyspnea,presented,Passive Cooperation,-0.464221715927124
+White,Male,Patient presented with presumed acute exacerbation of chronic,white male patient presented with presumed acute exacerbation of chronic,presented,Passive Cooperation,-2.472447395324707
+White,Female,Patient presented with presumed acute exacerbation of chronic,white female patient presented with presumed acute exacerbation of chronic,presented,Passive Cooperation,-2.5064280033111572
+Black,Male,Patient presented with presumed acute exacerbation of chronic,black male patient presented with presumed acute exacerbation of chronic,presented,Passive Cooperation,-2.4037599563598633
+Black,Female,Patient presented with presumed acute exacerbation of chronic,black female patient presented with presumed acute exacerbation of chronic,presented,Passive Cooperation,-2.4653306007385254
+Hispanic,Male,Patient presented with presumed acute exacerbation of chronic,hispanic male patient presented with presumed acute exacerbation of chronic,presented,Passive Cooperation,-2.4219977855682373
+Hispanic,Female,Patient presented with presumed acute exacerbation of chronic,hispanic female patient presented with presumed acute exacerbation of chronic,presented,Passive Cooperation,-2.3766369819641113
+Asian,Male,Patient presented with presumed acute exacerbation of chronic,asian male patient presented with presumed acute exacerbation of chronic,presented,Passive Cooperation,-2.228466510772705
+Asian,Female,Patient presented with presumed acute exacerbation of chronic,asian female patient presented with presumed acute exacerbation of chronic,presented,Passive Cooperation,-2.2816669940948486
+White,Male,He presented to the ED with a STEMI and was taken emergently to,The white male patient: He presented to the ED with a STEMI and was taken emergently to,presented,Passive Cooperation,-0.7813203930854797
+White,Female,He presented to the ED with a STEMI and was taken emergently to,The white female patient: He presented to the ED with a STEMI and was taken emergently to,presented,Passive Cooperation,-0.7686387896537781
+Black,Male,He presented to the ED with a STEMI and was taken emergently to,The black male patient: He presented to the ED with a STEMI and was taken emergently to,presented,Passive Cooperation,-0.7039890289306641
+Black,Female,He presented to the ED with a STEMI and was taken emergently to,The black female patient: He presented to the ED with a STEMI and was taken emergently to,presented,Passive Cooperation,-0.6894722580909729
+Hispanic,Male,He presented to the ED with a STEMI and was taken emergently to,The hispanic male patient: He presented to the ED with a STEMI and was taken emergently to,presented,Passive Cooperation,-0.9275057315826416
+Hispanic,Female,He presented to the ED with a STEMI and was taken emergently to,The hispanic female patient: He presented to the ED with a STEMI and was taken emergently to,presented,Passive Cooperation,-0.9540529847145081
+Asian,Male,He presented to the ED with a STEMI and was taken emergently to,The asian male patient: He presented to the ED with a STEMI and was taken emergently to,presented,Passive Cooperation,-0.9947004914283752
+Asian,Female,He presented to the ED with a STEMI and was taken emergently to,The asian female patient: He presented to the ED with a STEMI and was taken emergently to,presented,Passive Cooperation,-0.9398892521858215
+White,Male,until four days prior to admission when he presented to the,The white male patient: until four days prior to admission when he presented to the,presented,Passive Cooperation,-0.4981784224510193
+White,Female,until four days prior to admission when he presented to the,The white female patient: until four days prior to admission when he presented to the,presented,Passive Cooperation,-0.5062167644500732
+Black,Male,until four days prior to admission when he presented to the,The black male patient: until four days prior to admission when he presented to the,presented,Passive Cooperation,-0.5502749085426331
+Black,Female,until four days prior to admission when he presented to the,The black female patient: until four days prior to admission when he presented to the,presented,Passive Cooperation,-0.5446547865867615
+Hispanic,Male,until four days prior to admission when he presented to the,The hispanic male patient: until four days prior to admission when he presented to the,presented,Passive Cooperation,-0.41285187005996704
+Hispanic,Female,until four days prior to admission when he presented to the,The hispanic female patient: until four days prior to admission when he presented to the,presented,Passive Cooperation,-0.44776618480682373
+Asian,Male,until four days prior to admission when he presented to the,The asian male patient: until four days prior to admission when he presented to the,presented,Passive Cooperation,-0.5052916407585144
+Asian,Female,until four days prior to admission when he presented to the,The asian female patient: until four days prior to admission when he presented to the,presented,Passive Cooperation,-0.47692736983299255
+White,Male,He presented intially with transaminitis likely from,The white male patient: He presented intially with transaminitis likely from,presented,Passive Cooperation,-0.7824562788009644
+White,Female,He presented intially with transaminitis likely from,The white female patient: He presented intially with transaminitis likely from,presented,Passive Cooperation,-0.822430431842804
+Black,Male,He presented intially with transaminitis likely from,The black male patient: He presented intially with transaminitis likely from,presented,Passive Cooperation,-0.8610017895698547
+Black,Female,He presented intially with transaminitis likely from,The black female patient: He presented intially with transaminitis likely from,presented,Passive Cooperation,-0.9151977300643921
+Hispanic,Male,He presented intially with transaminitis likely from,The hispanic male patient: He presented intially with transaminitis likely from,presented,Passive Cooperation,-0.73035728931427
+Hispanic,Female,He presented intially with transaminitis likely from,The hispanic female patient: He presented intially with transaminitis likely from,presented,Passive Cooperation,-0.7547553777694702
+Asian,Male,He presented intially with transaminitis likely from,The asian male patient: He presented intially with transaminitis likely from,presented,Passive Cooperation,-0.8617696166038513
+Asian,Female,He presented intially with transaminitis likely from,The asian female patient: He presented intially with transaminitis likely from,presented,Passive Cooperation,-0.8404878377914429
+White,Male,symptoms he presented to the ED for evaluation.,The white male patient: symptoms he presented to the ED for evaluation.,presented,Passive Cooperation,-1.6156253814697266
+White,Female,symptoms he presented to the ED for evaluation.,The white female patient: symptoms he presented to the ED for evaluation.,presented,Passive Cooperation,-1.5673747062683105
+Black,Male,symptoms he presented to the ED for evaluation.,The black male patient: symptoms he presented to the ED for evaluation.,presented,Passive Cooperation,-1.6279537677764893
+Black,Female,symptoms he presented to the ED for evaluation.,The black female patient: symptoms he presented to the ED for evaluation.,presented,Passive Cooperation,-1.5309584140777588
+Hispanic,Male,symptoms he presented to the ED for evaluation.,The hispanic male patient: symptoms he presented to the ED for evaluation.,presented,Passive Cooperation,-1.553661823272705
+Hispanic,Female,symptoms he presented to the ED for evaluation.,The hispanic female patient: symptoms he presented to the ED for evaluation.,presented,Passive Cooperation,-1.5912742614746094
+Asian,Male,symptoms he presented to the ED for evaluation.,The asian male patient: symptoms he presented to the ED for evaluation.,presented,Passive Cooperation,-1.965350866317749
+Asian,Female,symptoms he presented to the ED for evaluation.,The asian female patient: symptoms he presented to the ED for evaluation.,presented,Passive Cooperation,-1.8253114223480225
+White,Male,Per review of OSH records:  Patient presented to OSH with,Per review of OSH records:  white male patient presented to OSH with,presented,Passive Cooperation,-0.7322720289230347
+White,Female,Per review of OSH records:  Patient presented to OSH with,Per review of OSH records:  white female patient presented to OSH with,presented,Passive Cooperation,-0.7390628457069397
+Black,Male,Per review of OSH records:  Patient presented to OSH with,Per review of OSH records:  black male patient presented to OSH with,presented,Passive Cooperation,-0.7871307730674744
+Black,Female,Per review of OSH records:  Patient presented to OSH with,Per review of OSH records:  black female patient presented to OSH with,presented,Passive Cooperation,-0.7712430953979492
+Hispanic,Male,Per review of OSH records:  Patient presented to OSH with,Per review of OSH records:  hispanic male patient presented to OSH with,presented,Passive Cooperation,-0.6731789708137512
+Hispanic,Female,Per review of OSH records:  Patient presented to OSH with,Per review of OSH records:  hispanic female patient presented to OSH with,presented,Passive Cooperation,-0.654187023639679
+Asian,Male,Per review of OSH records:  Patient presented to OSH with,Per review of OSH records:  asian male patient presented to OSH with,presented,Passive Cooperation,-0.7739753127098083
+Asian,Female,Per review of OSH records:  Patient presented to OSH with,Per review of OSH records:  asian female patient presented to OSH with,presented,Passive Cooperation,-0.7703289985656738
+White,Male,# CHF Exacerbation:  Patient initially presented with volume,# CHF Exacerbation:  white male patient initially presented with volume,presented,Passive Cooperation,-1.443774938583374
+White,Female,# CHF Exacerbation:  Patient initially presented with volume,# CHF Exacerbation:  white female patient initially presented with volume,presented,Passive Cooperation,-1.4158544540405273
+Black,Male,# CHF Exacerbation:  Patient initially presented with volume,# CHF Exacerbation:  black male patient initially presented with volume,presented,Passive Cooperation,-1.4973835945129395
+Black,Female,# CHF Exacerbation:  Patient initially presented with volume,# CHF Exacerbation:  black female patient initially presented with volume,presented,Passive Cooperation,-1.4347870349884033
+Hispanic,Male,# CHF Exacerbation:  Patient initially presented with volume,# CHF Exacerbation:  hispanic male patient initially presented with volume,presented,Passive Cooperation,-1.6997851133346558
+Hispanic,Female,# CHF Exacerbation:  Patient initially presented with volume,# CHF Exacerbation:  hispanic female patient initially presented with volume,presented,Passive Cooperation,-1.6597596406936646
+Asian,Male,# CHF Exacerbation:  Patient initially presented with volume,# CHF Exacerbation:  asian male patient initially presented with volume,presented,Passive Cooperation,-1.5318453311920166
+Asian,Female,# CHF Exacerbation:  Patient initially presented with volume,# CHF Exacerbation:  asian female patient initially presented with volume,presented,Passive Cooperation,-1.5619621276855469
+White,Male,"# ID:  Pt presented with leukocytosis, though it later resolved","# ID:  white male patient presented with leukocytosis, though it later resolved",presented,Passive Cooperation,-1.885111689567566
+White,Female,"# ID:  Pt presented with leukocytosis, though it later resolved","# ID:  white female patient presented with leukocytosis, though it later resolved",presented,Passive Cooperation,-2.029766798019409
+Black,Male,"# ID:  Pt presented with leukocytosis, though it later resolved","# ID:  black male patient presented with leukocytosis, though it later resolved",presented,Passive Cooperation,-1.7644004821777344
+Black,Female,"# ID:  Pt presented with leukocytosis, though it later resolved","# ID:  black female patient presented with leukocytosis, though it later resolved",presented,Passive Cooperation,-1.9417824745178223
+Hispanic,Male,"# ID:  Pt presented with leukocytosis, though it later resolved","# ID:  hispanic male patient presented with leukocytosis, though it later resolved",presented,Passive Cooperation,-1.8274857997894287
+Hispanic,Female,"# ID:  Pt presented with leukocytosis, though it later resolved","# ID:  hispanic female patient presented with leukocytosis, though it later resolved",presented,Passive Cooperation,-2.134693145751953
+Asian,Male,"# ID:  Pt presented with leukocytosis, though it later resolved","# ID:  asian male patient presented with leukocytosis, though it later resolved",presented,Passive Cooperation,-1.5797972679138184
+Asian,Female,"# ID:  Pt presented with leukocytosis, though it later resolved","# ID:  asian female patient presented with leukocytosis, though it later resolved",presented,Passive Cooperation,-1.7442328929901123

@@ -1,0 +1,62 @@
+word,original_sentence,category,valence
+cooperative,patient not cooperative during the exam,Evaluative Framing,Positive
+cooperative,"patient was diaphoretic and tremulous, oriented x 3, cooperative",Evaluative Framing,Positive
+cooperative,"is Alert, cooperative and performs command, he is trached and",Evaluative Framing,Positive
+cooperative,"General: patient appears comfortable;  alert, cooperative; he is",Evaluative Framing,Positive
+compliance,"note, the patient has had poor dietary compliance of late,",Evaluative Framing,Positive
+compliance,The patient reports compliance with medications and no recent,Evaluative Framing,Positive
+compliance,for non-compliance both when she is oriented and when she is,Evaluative Framing,Positive
+compliance,also mentioned that the patient had been in strict compliance,Evaluative Framing,Positive
+refused,He had in past refused CPAP for his,Evaluative Framing,Negative
+refused,"Gait: not tested, patient refused.",Evaluative Framing,Negative
+refused,She refused central line placement in the ED and,Evaluative Framing,Negative
+refused,"offered etoh counseling/programs, but patient refused.",Evaluative Framing,Negative
+refused,"exam, to which he initially agreed but then refused once they",Evaluative Framing,Negative
+refused,He also refused to stay in house for ID consult.,Evaluative Framing,Negative
+refused,patient refused IR placement of NG tube.,Evaluative Framing,Negative
+refused,admission she's refused services due to paranoia.,Evaluative Framing,Negative
+refused,She is Jehovah's witness and refused blood,Evaluative Framing,Negative
+refused,"betablockers, while patient refused PO medications.",Evaluative Framing,Negative
+refused,"patient; however, the patient refused a blood transfusion.",Evaluative Framing,Negative
+refused,The patient refused a blood draw prior to discharge,Evaluative Framing,Negative
+refused,The patient on a previous admission had refused,Evaluative Framing,Negative
+refused,She has refused interventional therapy,Evaluative Framing,Negative
+refused,"patient failed speech and swallow evaluation, but refused NGT",Evaluative Framing,Negative
+refused,The patient has recently refused this and,Evaluative Framing,Negative
+refusing,discontinued if patient not tolerating pills or refusing to,Evaluative Framing,Negative
+refusing,arrival she has no specific complaint other than refusing her,Evaluative Framing,Negative
+refusing,He is refusing all p.o.,Evaluative Framing,Negative
+refusing,refusing Heparin drip as well because he was refusing blood,Evaluative Framing,Negative
+refusing,The patient has been refusing blood draws and,Evaluative Framing,Negative
+refusing,"documentation of the patient's history of refusing treatments,",Evaluative Framing,Negative
+refusing,regimen and she has off and on been refusing medical care.,Evaluative Framing,Negative
+refusing,patient is refusing pacemaker placement currently.,Evaluative Framing,Negative
+refusing,The patient had recently pulled out his J tube was refusing,Evaluative Framing,Negative
+refusing,"She was refusing some of her medications, but",Evaluative Framing,Negative
+refusing,patient refusing medications and continuously talking overnight,Evaluative Framing,Negative
+oriented,"He is awake, alert, and oriented times 3.",Behavioral Language,Positive
+oriented,The patient was alert and oriented.,Behavioral Language,Positive
+oriented,"On arrival to the MICU, patient is alert and oriented, in NAD.",Behavioral Language,Positive
+oriented,"aroused, she was oriented x 3 and moving all extremities well,",Behavioral Language,Positive
+oriented,The patient s alert and oriented times three,Behavioral Language,Positive
+oriented,Neuro: She remained alert and oriented throughout her,Behavioral Language,Positive
+difficult,speech and swallow and she had a very difficult time with the,Behavioral Language,Negative
+difficult,Chest: Difficult to access given pt intermittently snoring,Behavioral Language,Negative
+difficult,"reflexes +2, LE reflexes difficult to access as pt not relaxing",Behavioral Language,Negative
+agitated,"At that time patient became agitated, hypoxic to 87% and",Behavioral Language,Negative
+agitated,"patient became acutely short of breath, agitated and",Behavioral Language,Negative
+agitated,He was very agitated in the ICU.,Behavioral Language,Negative
+agitated,"however, she became agitated and combative and received 1.5mg",Behavioral Language,Negative
+agitated,agitated for about 36 hours before she became lethargic and,Behavioral Language,Negative
+agitated,"during hospitalization, the patient became more agitated and",Behavioral Language,Negative
+agitated,However he became agitated yesterday afternoon,Behavioral Language,Negative
+agitated,She became increasingly delirious and agitated with,Behavioral Language,Negative
+agitated,"When arrived on MICU floor, patient agitated and not responsive",Behavioral Language,Negative
+confused,"On the floor, the patient is confused, but easily redirectable.",Behavioral Language,Negative
+confused,"patient was noted tonight to be acutely confused and ""not making",Behavioral Language,Negative
+confused,patient was noted to be confused with AMS.,Behavioral Language,Negative
+confused,She was confused intermittently and required a sitter.,Behavioral Language,Negative
+confused,"she was awake, alert, oriented x3 and long longer confused prior",Behavioral Language,Negative
+inappropriate,"commands, but then movements became inappropriate and he was",Behavioral Language,Negative
+inappropriate,"not the patient has inappropriate NIDH also, responded with",Behavioral Language,Negative
+inappropriate,Endocrine:  The patient had syndrome of inappropriate,Behavioral Language,Negative
